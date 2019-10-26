@@ -32,7 +32,7 @@ This is the first weekly community update, which helps you quickly capture Pulsa
 
     https://github.com/apache/pulsar/pull/5355
 
-## Ecosyste
+## Ecosystem
 
 - Pulsar + Flink
   
