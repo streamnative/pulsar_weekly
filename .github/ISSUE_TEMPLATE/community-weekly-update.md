@@ -41,7 +41,7 @@ The weeekly updates are posted on Monday every week.
 This section is used for collecting the updates about Pulsar ecosystem, for example, Pulsar tools, integrations, and resources.
 Twitter is a great channel for collecting these updates.
 
-If you found a new tool or integration, feel free to add it to [awesome-pulsar](https://github.com/streamnative/awesome-pulsar) repo.
+If you find a new tool or integration, feel free to add it to [awesome-pulsar](https://github.com/streamnative/awesome-pulsar) repo.
 
 ### Event/News
 
