@@ -1,6 +1,8 @@
-[Community Weekly Update] 2019-10-07 ~ 2019-10-18
-
-This is the first weekly community update, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family.
+---
+title: "Community Weekly Update"
+date: 2019-10-07 ~ 2019-10-18
+description: "This is the first weekly community update, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family."
+---
 
 ## Pulsar Development
 
