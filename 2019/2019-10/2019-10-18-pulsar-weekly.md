@@ -4,6 +4,10 @@ date: 2019-10-07 ~ 2019-10-18
 description: "This is the first weekly community update, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family."
 ---
 
+[Community Weekly Update] 2019-10-07 ~ 2019-10-18
+
+This is the first weekly community update, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family.
+
 ## Pulsar Development
 
 - [CI]  ASF Jenkins is still in a flaky state. There is still a huge backlog of pull requests to be merged due to Jenkins issue. Ali Ahmed drove the efforts looking into different CI options to address the problem [1].
