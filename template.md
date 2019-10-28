@@ -1,35 +1,35 @@
 ---
-title: "Community Weekly Update"
+title: "YYYY-MM-DD-pulsar-weekly"
 date: YYYY-MM-DD ~ YYYY-MM-DD
 description: "This is the weekly community update for YYYY-MM-DD ~ YYYY-MM-DD, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family."
 ---
 
-# [Community Weekly Update] YYYY-MM-DD ~ YYYY-MM-DD 
+## [Community Weekly Update] YYYY-MM-DD ~ YYYY-MM-DD 
 
 This is the weekly community update for YYYY-MM-DD ~ YYYY-MM-DD, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family.
 
 
-## Pulsar Development
+### Pulsar Development
 
 * xxx
 * xxx
 
-## Notable Bug Fix
+### Notable Bug Fix
 
 * xxx
 * xxx
 
-## Ecosystem
+### Ecosystem
 
 * xxx
 * xxx
 
-## Event/News
+### Event/News
 
 * xxx
 * xxx
 
-## Blog/Article
+### Blog/Article
 
 * xxx
 * xxx

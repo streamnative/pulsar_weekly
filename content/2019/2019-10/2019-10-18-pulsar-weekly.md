@@ -1,14 +1,14 @@
 ---
-title: "Community Weekly Update"
+title: "2019-10-18-pulsar-weekly"
 date: 2019-10-07 ~ 2019-10-18
 description: "This is the first weekly community update, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family."
 ---
 
-[Community Weekly Update] 2019-10-07 ~ 2019-10-18
+## [Community Weekly Update] 2019-10-07 ~ 2019-10-18
 
 This is the first weekly community update, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family.
 
-## Pulsar Development
+### Pulsar Development
 
 - [CI]  ASF Jenkins is still in a flaky state. There is still a huge backlog of pull requests to be merged due to Jenkins issue. Ali Ahmed drove the efforts looking into different CI options to address the problem [1].
 
@@ -16,11 +16,11 @@ This is the first weekly community update, which helps you quickly capture Pulsa
 
 - [DOC] [connector] Yu Liu (@Anonymitaet) continues contributing to the documentation for built-in connectors (https://github.com/apache/pulsar/issues/5015). Hope we can fill the documentation gap soon. Those changes are available in the latest version of documentation (http://pulsar.apache.org/docs/en/next/io-connectors/). 
 
-[1] https://mail-archives.apache.org/mod_mbox/pulsar-dev/201910.mbox/%3CCANcJaZucPz%2BinJ%3DaVNVM0f-1qEJ_J%3DRcamkj8v6XeiqY4Thv_A%40mail.gmail.com%3E
+    [1] https://mail-archives.apache.org/mod_mbox/pulsar-dev/201910.mbox/%3CCANcJaZucPz%2BinJ%3DaVNVM0f-1qEJ_J%3DRcamkj8v6XeiqY4Thv_A%40mail.gmail.com%3E
 
-[2] https://mail-archives.apache.org/mod_mbox/pulsar-dev/201910.mbox/%3CCA%2BJmKXYakGKi9d7j%2Bavo4WW%3DRu3BY-ZUpLDW3RLeAic-NVN1sA%40mail.gmail.com%3E
+    [2] https://mail-archives.apache.org/mod_mbox/pulsar-dev/201910.mbox/%3CCA%2BJmKXYakGKi9d7j%2Bavo4WW%3DRu3BY-ZUpLDW3RLeAic-NVN1sA%40mail.gmail.com%3E
  
-## Notable Bug Fix
+### Notable Bug Fix
 
 - [Broker] Deduplication may drop messages if there is an error persisting to bookkeeper. (Fixed, Release: 2.4.2 / 2.5.0)
 
@@ -38,7 +38,7 @@ This is the first weekly community update, which helps you quickly capture Pulsa
 
     https://github.com/apache/pulsar/pull/5355
 
-## Ecosystem
+### Ecosystem
 
 - Pulsar + Flink
   
@@ -64,13 +64,13 @@ This is the first weekly community update, which helps you quickly capture Pulsa
   
   - Oct 8th: 0.4.0 released with key/value properties support.
   
-  .NET client package is available at: https://www.nuget.org/packages/Pulsar.Client
+    .NET client package is available at: https://www.nuget.org/packages/Pulsar.Client
 
 - Pulsar Express
   
     Pulsar Express released 0.5.0 on Oct 13 with many features like broker health check, namespace creation and deletion, topic creation, and son on.
 
-## Event/News
+### Event/News
 
 - [HUG] Special Apache Pulsar Meetup chez OVH (Paris 17)
   
@@ -104,11 +104,11 @@ This is the first weekly community update, which helps you quickly capture Pulsa
 
     https://www.meetup.com/Paris-Data-Engineers/events/264819837/
     
-## Blog/Article
+### Blog/Article
 
 - Life beyond Kafka with Apache Pulsar (by Avaro Santos Andres)
   
-  https://dzone.com/articles/life-beyond-kafka-with-apache-pulsar
+    https://dzone.com/articles/life-beyond-kafka-with-apache-pulsar
 
 - An introduction to Stream Processing with Pulsar Functions (by Matteo Merli and Jerry Peng)
   
