@@ -14,7 +14,7 @@ This is the weekly community update for 2019-10-26 ~ 2019-11-01, with updates on
 
 - [Pulsar Manager] The release plan was settled down. Guangning is going to kick off the first release plan.
 
-  https://lists.apache.org/thread.html/b3f05f0f50a6b8c32536c5a29f8e1ce5c6efe42b2a6ccf91f28d33a0@%3Cdev.pulsar.apache.org%3E
+    https://lists.apache.org/thread.html/b3f05f0f50a6b8c32536c5a29f8e1ce5c6efe42b2a6ccf91f28d33a0@%3Cdev.pulsar.apache.org%3E
 
 - [PIP-47][Release] Time-Based Release Plan
 
@@ -63,22 +63,22 @@ This is the weekly community update for 2019-10-26 ~ 2019-11-01, with updates on
 
 - [BookKeeper] Apache BookKeeper is voting its 4.10 release, which can unblock Pulsar 2.4.2 release. Thank you to Enrico from the BookKeeper community!
 
-  https://lists.apache.org/thread.html/d57f500fe8383903922fc4be3c3901fb0c00fda777672f32653c979e@%3Cdev.bookkeeper.apache.org%3E
+    https://lists.apache.org/thread.html/d57f500fe8383903922fc4be3c3901fb0c00fda777672f32653c979e@%3Cdev.bookkeeper.apache.org%3E
 
 ### Notable Features
 
 - [Functions] Added deletion of state for Functions (Release: 2.5.0)
 
-  https://github.com/apache/pulsar/pull/5469
+    https://github.com/apache/pulsar/pull/5469
     
     
 - [Functions] Distributed the CA for KubernetesSecretsTokenAuthProvider (Release: 2.5.0)
 
-  https://github.com/apache/pulsar/pull/5398
+    https://github.com/apache/pulsar/pull/5398
     
-- [zookeeper] Bumped ZooKeeper to version 3.5.6
+- [ZooKeeper] Bumped ZooKeeper to version 3.5.6
 
-  https://github.com/apache/pulsar/pull/5043
+    https://github.com/apache/pulsar/pull/5043
     
 - [Functions] Function runtime pluggable
 
