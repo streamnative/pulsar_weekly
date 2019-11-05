@@ -15,6 +15,11 @@ This is the weekly community update for YYYY-MM-DD ~ YYYY-MM-DD, which helps you
 * xxx
 * xxx
 
+### Notable Feature
+
+* xxx
+* xxx
+
 ### Notable Bug Fix
 
 * xxx
@@ -25,12 +30,17 @@ This is the weekly community update for YYYY-MM-DD ~ YYYY-MM-DD, which helps you
 * xxx
 * xxx
 
-### Event/News
+### Call for Participation
 
 * xxx
 * xxx
 
-### Blog/Article
+### Event / News
+
+* xxx
+* xxx
+
+### Blog / Article
 
 * xxx
 * xxx
