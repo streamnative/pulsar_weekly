@@ -33,7 +33,7 @@ This is the weekly community update for 2019-11-02 ~ 2019-11-08, with updates on
 
     https://lists.apache.org/thread.html/b4f1545bd23552e7fe9f9946b73c135e4d49a0717af8a1051913b48e@%3Cdev.bookkeeper.apache.org%3E
 
-### Notable Features
+### Notable Feature
 
 - [Connectors] Add subscribe position param for consumers of input topics of a sink (Release: 2.4.2, 2.5.0)
 
