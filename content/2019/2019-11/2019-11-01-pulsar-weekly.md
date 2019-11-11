@@ -127,14 +127,14 @@ This is the weekly community update for 2019-10-26 ~ 2019-11-01, with updates on
     https://www.nuget.org/packages/Pulsar.Client/
     
 
-### Event / News
+### Event/News
 
 - [Meetup] A new Apache Pulsar meetup is coming in Shanghai (China) on November 16, which will feature adoption stories from China Telecom, Zhaopin, and TuyaSmart.
 
     Signup link: https://www.eventbrite.com/e/apache-pulsar-meetup-shanghai-tickets-79293658467
 
 
-### Blog / Article
+### Blog/Article
 
 - [Video] Presentation "Apache Pulsar 101: architecture, concepts et comparaison" given by Quentin Adam & Steven Le Roux at DevFest Nantes 2019 was alive.
 
