@@ -27,11 +27,11 @@ This is the weekly community update for 2019-11-09 ~ 2019-11-16, with updates on
 
 ### Notable Feature
 
-* [Client][Java] Expose include head message for durable consumers (Release: 2.4.3/2.5.0). 
+* [Client][Java] Expose include head message for durable consumers (Release: 2.4.3 / 2.5.0). 
 
     https://github.com/apache/pulsar/pull/5622
     
-* [BookKeeper] Upgrade Apache BookKeeper version to 4.10.0 (Release: 2.4.2/2.5.0).
+* [BookKeeper] Upgrade Apache BookKeeper version to 4.10.0 (Release: 2.4.2 / 2.5.0).
 
     https://github.com/apache/pulsar/pull/5607
 
@@ -45,11 +45,11 @@ This is the weekly community update for 2019-11-09 ~ 2019-11-16, with updates on
 
 ### Notable Bug Fix
 
-* [Client][Java] Fix producer semaphore release error (Release: 2.4.2/2.5.0).
+* [Client][Java] Fix producer semaphore release error (Release: 2.4.2 / 2.5.0).
 
     https://github.com/apache/pulsar/pull/5587
 
-* [Broker] Data is not deleted after expiration due to connected readers (Release: 2.4.2/2.5.0).
+* [Broker] Data is not deleted after expiration due to connected readers (Release: 2.4.2 / 2.5.0).
 
     https://github.com/apache/pulsar/pull/5621
     
@@ -57,7 +57,7 @@ This is the weekly community update for 2019-11-09 ~ 2019-11-16, with updates on
 
     https://github.com/apache/pulsar/pull/5491
     
-* [Broker][Metrics] Fix prometheus metrics export contains " bug (Release: 2.4.2/2.5.0).
+* [Broker][Metrics] Fix prometheus metrics export contains " bug (Release: 2.4.2 / 2.5.0).
 
     https://github.com/apache/pulsar/pull/5605
 
@@ -75,7 +75,7 @@ This is the weekly community update for 2019-11-09 ~ 2019-11-16, with updates on
 
 * [Conference] Devoxx Morocco 2019 was held on November 12-14 in Agadir. Bruno Bonnin attended this conference and gave a talk about "Stream Processing with Apache Pulsar".
 
-   https://twitter.com/ZenikaNantes/status/1194948501425274880
+    https://twitter.com/ZenikaNantes/status/1194948501425274880
     
 * [Meetup] A new Apache Pulsar meetup organized by Orange Financial and StreamNative was held on November 16 in Shanghai. Pulsar committers and contributors from Zhaopin, TuyaSmart, Orange Financial and StreamNative shared their experiences and best practices of running Pulsar on production.
 
@@ -83,7 +83,7 @@ This is the weekly community update for 2019-11-09 ~ 2019-11-16, with updates on
 
 ### Blog/Article
 
-* How Orange Financial combats financial fraud over 50M transactions a day using Apache Pulsar (by Vincent Xie and Jeniffer Huang)
+* How Orange Financial combats financial fraud over 50M transactions a day using Apache Pulsar (by Vincent Xie)
 
     https://streamnative.io/blog/tech/2019-11-11-how-orange-finaacial-combats-financial-fraud-over-50m-transactions-a-day-useing-apache-pulsar/
 
