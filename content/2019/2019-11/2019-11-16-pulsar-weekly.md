@@ -83,7 +83,7 @@ This is the weekly community update for 2019-11-09 ~ 2019-11-16, with updates on
 
 ### Blog/Article
 
-* How Orange Financial combats financial fraud over 50M transactions a day using Apache Pulsar (by Vincent Xie and Jeniffer Huang)
+* How Orange Financial combats financial fraud over 50M transactions a day using Apache Pulsar (by Vincent Xie)
 
     https://streamnative.io/blog/tech/2019-11-11-how-orange-finaacial-combats-financial-fraud-over-50m-transactions-a-day-useing-apache-pulsar/
 
