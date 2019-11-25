@@ -63,7 +63,7 @@ This is the weekly community update for 2019-11-17 ~ 2019-11-22, with updates on
 
 ### Event/News
 
-* [Conference] KubeCon + CloudNativeCon North America 2019 was held on November 18-21 in San Diego. Yahoo! Japan was one of the gold sponsors and Nozomi Kurihara presented and promoted Pulsar at this conference.
+* [Conference] KubeCon + CloudNativeCon North America 2019 was held on November 18-21 in San Diego. Yahoo! JAPAN was one of the gold sponsors. Pulsar team and Athenz team from Yahoo! JAPAN attended the conference as the booth exhibitor.
 
     https://twitter.com/Jennife06125739/status/1197930239646732295
     
