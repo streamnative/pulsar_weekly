@@ -11,7 +11,7 @@ This is the weekly community update for 2019-11-23 ~ 2019-11-29, with updates on
 
 ### Pulsar Development
 
-- [Pulsar Manager] Pulsar Manager 0.1.0 is released. It is the first official apache release since it is donated from StreamNative. Thanks to many committers and contributors for making this happen.
+- [Pulsar Manager] Pulsar Manager 0.1.0 is released. It is the first official Apache release since it is donated from StreamNative. Thanks to many committers and contributors for making this happen.
 
     - Release Notes
     
@@ -25,7 +25,7 @@ This is the weekly community update for 2019-11-23 ~ 2019-11-29, with updates on
 
     https://lists.apache.org/thread.html/3e61e3e2e75fb3b096744bdb9fb5b16399611c8b5cee4a7b1a95c4de@%3Cdev.pulsar.apache.org%3E
     
-- [Pulsar][Release] Pulsar 2.5.0 release is progressing. There are a few documentation issues to close. The first release candidate is expected to be out for voting.
+- [Pulsar][Release] Pulsar 2.5.0 release is progressing. There are a few open issues related to documentation. The first release candidate is expected to be out for voting.
 
     https://github.com/apache/pulsar/milestone/22
     
@@ -43,18 +43,18 @@ This is the weekly community update for 2019-11-23 ~ 2019-11-29, with updates on
 
     https://github.com/apache/pulsar/pull/5710
     
-- [SQL] Pulsar SQL supports zookeeper chroot (Release: 2.5.0).
+- [SQL] Pulsar SQL supports ZooKeeper chroot (Release: 2.5.0).
 
     https://github.com/apache/pulsar/pull/5001
     
-- [Broker] Remove cursor while remove non-durable subscription (Release: 2.5.0).
+- [Broker] Remove cursor while removing non-durable subscription (Release: 2.5.0).
 
     https://github.com/apache/pulsar/pull/5719
     
 
 ### Notable Bug Fix
 
-- [Java][Client] Fix potential deadlock in pulsar client close (Release: 2.4.3, 2.5.0).
+- [Java][Client] Fix potential deadlock on PulsarClient.close() (Release: 2.4.3, 2.5.0).
 
     https://github.com/apache/pulsar/pull/5731
 
@@ -68,7 +68,7 @@ This is the weekly community update for 2019-11-23 ~ 2019-11-29, with updates on
 
 ### Event/News
 
-- [Conference] Two Pulsar dedicated events "Pulsar Summit San Francisco" and "Pulsar Summit Beijing" are coming 2020. The Call-For-Presentations is open soon.
+- [Conference] Two Pulsar dedicated events "Pulsar Summit San Francisco" and "Pulsar Summit Beijing" are coming in 2020. The Call-For-Presentations is open soon.
 
     https://lists.apache.org/thread.html/458be6deeb0260591a353cf0a252d7d0a892cd662834db585069a3de@%3Cdev.pulsar.apache.org%3E
 
@@ -76,6 +76,6 @@ This is the weekly community update for 2019-11-23 ~ 2019-11-29, with updates on
 
     https://developer.aliyun.com/special/ffa2019-conference
 
-- [Meetup] The first Apache Pulsar x PingCAP infra meetup happened on November 30. Penghui Li and Yong Zhang presented this meetup and shared everything about Pulsar transactions.
+- [Meetup] The first Apache Pulsar x PingCAP infra meetup happened on November 30. Penghui Li and Yong Zhang presented at this meetup and shared everything about Pulsar transactions.
 
     https://www.huodongxing.com/event/7520647658000
