@@ -2,12 +2,12 @@
 title: "2019-11-16-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-11-09 ~ 2019-11-16"
 date: 2019-11-09 ~ 2019-11-16
-description: "This is the weekly community update for 2019-11-09 ~ 2019-11-16, with updates on notable bug fixes around idempotent producer with external sequence id, data retention issues, features around java client and functions, and more."
+description: "This is the Pulsar community weekly update for 2019-11-09 ~ 2019-11-16, with updates on notable bug fixes around idempotent producer with external sequence id, data retention issues, features around java client and functions, and more."
 ---
 
-## [Community Weekly Update] 2019-11-09 ~ 2019-11-16
+## [Pulsar Community Weekly Update] 2019-11-09 ~ 2019-11-16
 
-This is the weekly community update for 2019-11-09 ~ 2019-11-16, with updates on notable bug fixes around idempotent producer with external sequence id, data retention issues, features around java client and functions, and more.
+This is the Pulsar community weekly update for 2019-11-09 ~ 2019-11-16, with updates on notable bug fixes around idempotent producer with external sequence id, data retention issues, features around java client and functions, and more.
 
 ### Pulsar Development
 

@@ -2,13 +2,13 @@
 title: "2019-10-25-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-10-19 ~ 2019-10-25"
 date: 2019-10-19 ~ 2019-10-25
-description: "This is the weekly community update for 2019-10-19 ~ 2019-10-25, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family."
+description: "This is the Pulsar community weekly update for 2019-10-19 ~ 2019-10-25, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family."
 ---
 
 
-## [Community Weekly Update] 2019-10-19 ~ 2019-10-25 
+## [Pulsar Community Weekly Update] 2019-10-19 ~ 2019-10-25 
 
-This is the weekly community update for 2019-10-19 ~ 2019-10-25, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family.
+This is the Pulsar community weekly update for 2019-10-19 ~ 2019-10-25, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family.
 
 ### Pulsar Development
 

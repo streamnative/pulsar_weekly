@@ -2,13 +2,13 @@
 title: "2019-11-01-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-10-26 ~ 2019-11-01"
 date: 2019-10-26 ~ 2019-11-01
-description: "This is the weekly community update for 2019-10-26 ~ 2019-11-01, with updates on new PIPs kicking in discussions of revisiting admin API and permissions, introducing package management in Pulsar Functions, a new Pulsar admin CLI `pulsarctl`, first apache release of Pulsar Manager, and a bit more."
+description: "This is the Pulsar community weekly update for 2019-10-26 ~ 2019-11-01, with updates on new PIPs kicking in discussions of revisiting admin API and permissions, introducing package management in Pulsar Functions, a new Pulsar admin CLI `pulsarctl`, first apache release of Pulsar Manager, and a bit more."
 ---
 
 
-## [Community Weekly Update] 2019-10-26 ~ 2019-11-01 
+## [Pulsar Community Weekly Update] 2019-10-26 ~ 2019-11-01 
 
-This is the weekly community update for 2019-10-26 ~ 2019-11-01, with updates on new PIPs kicking in discussions of revisiting admin API and permissions, introducing package management in Pulsar Functions, a new Pulsar admin CLI `pulsarctl`, first apache release of Pulsar Manager, and a bit more.
+This is the Pulsar community weekly update for 2019-10-26 ~ 2019-11-01, with updates on new PIPs kicking in discussions of revisiting admin API and permissions, introducing package management in Pulsar Functions, a new Pulsar admin CLI `pulsarctl`, first apache release of Pulsar Manager, and a bit more.
 
 ### Pulsar Development
 
