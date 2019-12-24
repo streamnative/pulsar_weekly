@@ -2,13 +2,13 @@
 title: "2019-11-08-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-11-02 ~ 2019-11-08"
 date: 2019-11-02 ~ 2019-11-08
-description: "This is the weekly community update for 2019-11-02 ~ 2019-11-08, with updates on the sticky consumer for key-shared subscription, producers support producing messages with different schemas, the release of BookKeeper 4.10, and more."
+description: "This is the Pulsar community weekly update for 2019-11-02 ~ 2019-11-08, with updates on the sticky consumer for key-shared subscription, producers support producing messages with different schemas, the release of BookKeeper 4.10, and more."
 ---
 
 
-## [Community Weekly Update] 2019-11-02 ~ 2019-11-08
+## [Pulsar Community Weekly Update] 2019-11-02 ~ 2019-11-08
 
-This is the weekly community update for 2019-11-02 ~ 2019-11-08, with updates on the sticky consumer for key-shared subscription, producers support producing messages with different schemas, the release of BookKeeper 4.10, and more.
+This is the Pulsar community weekly update for 2019-11-02 ~ 2019-11-08, with updates on the sticky consumer for key-shared subscription, producers support producing messages with different schemas, the release of BookKeeper 4.10, and more.
 
 ### Pulsar Development
 

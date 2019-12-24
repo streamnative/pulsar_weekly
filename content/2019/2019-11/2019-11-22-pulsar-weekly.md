@@ -2,12 +2,12 @@
 title: "2019-11-22-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-11-17 ~ 2019-11-22"
 date: 2019-11-17 ~ 2019-11-22
-description: "This is the weekly community update for 2019-11-17 ~ 2019-11-22, with updates on multiple under-voting Pulsar releases, support CDC connector for MongoDB, support batch receive in Java client, and more."
+description: "This is the Pulsar community weekly update for 2019-11-17 ~ 2019-11-22, with updates on multiple under-voting Pulsar releases, support CDC connector for MongoDB, support batch receive in Java client, and more."
 ---
 
-## [Community Weekly Update] 2019-11-17 ~ 2019-11-22
+## [Pulsar Community Weekly Update] 2019-11-17 ~ 2019-11-22
 
-This is the weekly community update for 2019-11-17 ~ 2019-11-22, with updates on multiple under-voting Pulsar releases, support CDC connector for MongoDB, support batch receive in Java client, and more.
+This is the Pulsar community weekly update for 2019-11-17 ~ 2019-11-22, with updates on multiple under-voting Pulsar releases, support CDC connector for MongoDB, support batch receive in Java client, and more.
 
 ### Pulsar Development
 
