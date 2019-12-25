@@ -9,7 +9,7 @@ description: "This is the Pulsar community weekly update for 2019-12-07 ~ 2019-1
 
 This is the Pulsar community weekly update for 2019-12-07 ~ 2019-12-20, with updates on DotPulsar, key windowed function, Pulsar Native Go client, batch authorization of partitioned topic, API document, and so on.
 
-### Pulsar Development
+### Development
 
 - [PIP-53] Daniel Blankensteiner from Danske Commodities started the email thread of contributing DotPulsar (a Pulsar client library for .NET) to Apache Pulsar.
 
@@ -25,7 +25,7 @@ This is the Pulsar community weekly update for 2019-12-07 ~ 2019-12-20, with upd
 
     https://lists.apache.org/thread.html/519d840d9e4843651ab8dc15515f25e8c5bf5212e79f2ad63f6d2cec%40%3Cdev.pulsar.apache.org%3E
 
-- [Pulsar Functiono] A new proposal is raised for introducing key windowed function in Pulsar Functions.
+- [Pulsar Function] A new proposal is raised for introducing key windowed function in Pulsar Functions.
 
     https://lists.apache.org/thread.html/5228bdddafb49badb2f25dbf4ab40e134d3c346933da2fcb0a6db36a%40%3Cdev.pulsar.apache.org%3E
 

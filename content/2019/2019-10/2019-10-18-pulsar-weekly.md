@@ -9,7 +9,7 @@ description: "This is the first Pulsar community weekly update, which helps you 
 
 This is the first Pulsar community weekly update, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family.
 
-### Pulsar Development
+### Development
 
 - [CI]  ASF Jenkins is still in a flaky state. There is still a huge backlog of pull requests to be merged due to Jenkins issue. Ali Ahmed drove the efforts looking into different CI options to address the problem [1].
 

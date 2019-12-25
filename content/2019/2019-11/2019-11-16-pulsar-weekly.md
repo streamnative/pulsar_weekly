@@ -9,7 +9,7 @@ description: "This is the Pulsar community weekly update for 2019-11-09 ~ 2019-1
 
 This is the Pulsar community weekly update for 2019-11-09 ~ 2019-11-16, with updates on notable bug fixes around idempotent producer with external sequence id, data retention issues, features around java client and functions, and more.
 
-### Pulsar Development
+### Development
 
 * [Release][Pulsar Manager] The 3rd candidate of Apache Pulsar Manager release 0.1.0 is out for voting.
 

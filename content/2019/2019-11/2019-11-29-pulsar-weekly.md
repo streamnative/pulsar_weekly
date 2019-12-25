@@ -9,7 +9,7 @@ description: "This is the Pulsar community weekly update for 2019-11-23 ~ 2019-1
 
 This is the Pulsar community weekly update for 2019-11-23 ~ 2019-11-29, with updates on Pulsar user conference @PulsarSummit, Pulsar Manager 0.1.0 release, broker-level publish rate limiting and many other enhancements around metrics and documentation.
 
-### Pulsar Development
+### Development
 
 - [Pulsar Manager] Pulsar Manager 0.1.0 is released. It is the first official Apache release since it is donated from StreamNative. Thanks to many committers and contributors for making this happen.
 

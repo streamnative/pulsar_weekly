@@ -9,7 +9,7 @@ description: "This is the Pulsar community weekly update for 2019-11-17 ~ 2019-1
 
 This is the Pulsar community weekly update for 2019-11-17 ~ 2019-11-22, with updates on multiple under-voting Pulsar releases, support CDC connector for MongoDB, support batch receive in Java client, and more.
 
-### Pulsar Development
+### Development
 
 - [Release][Pulsar] RC1 for Apache Pulsar release 2.4.2 is out of voting.
 

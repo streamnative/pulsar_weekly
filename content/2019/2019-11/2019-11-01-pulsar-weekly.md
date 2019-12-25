@@ -10,7 +10,7 @@ description: "This is the Pulsar community weekly update for 2019-10-26 ~ 2019-1
 
 This is the Pulsar community weekly update for 2019-10-26 ~ 2019-11-01, with updates on new PIPs kicking in discussions of revisiting admin API and permissions, introducing package management in Pulsar Functions, a new Pulsar admin CLI `pulsarctl`, first apache release of Pulsar Manager, and a bit more.
 
-### Pulsar Development
+### Development
 
 - [Pulsar Manager] The release plan was settled down. Guangning is going to kick off the first release plan.
 
