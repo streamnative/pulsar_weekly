@@ -10,7 +10,7 @@ description: "This is the Pulsar community weekly update for 2019-11-02 ~ 2019-1
 
 This is the Pulsar community weekly update for 2019-11-02 ~ 2019-11-08, with updates on the sticky consumer for key-shared subscription, producers support producing messages with different schemas, the release of BookKeeper 4.10, and more.
 
-### Pulsar Development
+### Development
 
 - [PIP-49][Permissions] The discussion of improvements of permissions continues. The scope of the PIP is proposed to reduce to focus on documenting the permissions for admin API and make the implementation stick to it.
 

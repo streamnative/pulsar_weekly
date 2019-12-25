@@ -10,7 +10,7 @@ description: "This is the Pulsar community weekly update for 2019-10-19 ~ 2019-1
 
 This is the Pulsar community weekly update for 2019-10-19 ~ 2019-10-25, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family.
 
-### Pulsar Development
+### Development
 
 * [CI] ASF Jenkins is back to 'normal' after reverting 'Add default loader for latest pyyaml (#4974)' [1] in #5432 [2]. The problem was from the usage of pyyaml in python 2.7 causing function workers failing to start in integration tests. The committers started merging the pull requests.
 
