@@ -51,7 +51,7 @@ This is the Pulsar community weekly update for 2020-01-04 ~ 2020-01-10, with upd
 
 ### Event / News
 
-- Apache IoTDB X Apache Pulsar meetup was held on Jan 4 in Beijing. Jia Zhai from StreamNative shared about "Apache Pulsar: from messaging system to event streaming platform". Besides, Guangning E from StreamNative gave a talk about "How to connect Apache Pulsar to IoTDB with Pulsar IO".
+- [Meetup] Apache IoTDB X Apache Pulsar meetup was held on Jan 4 in Beijing. Jia Zhai from StreamNative shared about "Apache Pulsar: from messaging system to event streaming platform". Besides, Guangning E from StreamNative gave a talk about "How to connect Apache Pulsar to IoTDB with Pulsar IO".
 
     https://www.eventbrite.com/e/apache-iotdb-x-apache-pulsar-meetup-tickets-85739618507#
 
