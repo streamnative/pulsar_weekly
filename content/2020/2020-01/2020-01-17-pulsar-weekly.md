@@ -31,31 +31,31 @@ This is the Pulsar community weekly update for 2020-01-11 ~ 2020-01-17, with upd
 
     https://lists.apache.org/thread.html/r1e85dca5bb502e113da1a51a3c9308d73dcb50a88fca5cf3684e109b%40%3Cdev.pulsar.apache.org%3E
     
-- [PIP-54] Acknowledgement for local index of batch message
+- [PIP-54] Acknowledgement for local index of batch message.
 
     https://github.com/apache/pulsar/wiki/PIP-54:-Acknowledgement-for-local-index-of-batch-message
     
-- [PIP-55] Refresh authentication credentials
+- [PIP-55] Refresh authentication credentials.
 
     https://github.com/apache/pulsar/wiki/PIP-55%3A-Refresh-Authentication-Credentials
 
 ### Notable Feature
 
-- [Go Functions] Replace cgo client with native Go client in Go Function
+- [Go Functions] Replace cgo client with native Go client in Go Function.
 
     https://github.com/apache/pulsar/pull/6059
     
-- [Broker] Support delete inactive topic when subscriptions caught up
+- [Broker] Support delete inactive topic when subscriptions caught up.
 
     https://github.com/apache/pulsar/pull/6077
 
 ### Notable Bug Fix
 
-- [Client][Java] Fix zero queue consumer message redelivery
+- [Client][Java] Fix zero queue consumer message redelivery.
 
     https://github.com/apache/pulsar/pull/6076
     
-- [Client][Java] Fix message redelivery for zero queue consumer while using async API to receive messages
+- [Client][Java] Fix message redelivery for zero queue consumer while using async API to receive messages.
 
     https://github.com/apache/pulsar/pull/6090
 
