@@ -48,7 +48,7 @@ This is the Pulsar community weekly update for 2020-01-18 ~ 2020-01-31, with upd
 
     https://thedataexchange.media/taking-messaging-and-data-ingestion-systems-to-the-next-level
     
-- [Conference] Data Day Texas was held on January 25, 2020 in Austin. Three presentations of Pulsar were presented there.
+- [Conference] Data Day Texas was held on January 25, 2020 in Austin. Three talks of Pulsar were given there.
 
     - "Building a streaming data warehouse using Flink and Pulsar" - presented by Sijie Guo from StreamNative.
     
