@@ -70,10 +70,15 @@ This is the Pulsar community weekly update for 2020-02-01 ~ 2020-02-14, with upd
 - [Helm] Several bug fixes and improvements have been made to current helm charts.
 
     https://github.com/apache/pulsar/pull/6158
+
     https://github.com/apache/pulsar/pull/6148
+
     https://github.com/apache/pulsar/pull/6160
+
     https://github.com/apache/pulsar/pull/6201
+
     https://github.com/apache/pulsar/pull/6280
+    
     https://github.com/apache/pulsar/pull/6191
     
 - [Client][Java] Fix get schema version in HttpLookupService. (Release: 2.6.0, 2.5.1)
