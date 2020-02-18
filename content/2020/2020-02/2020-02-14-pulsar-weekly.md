@@ -78,14 +78,14 @@ This is the Pulsar community weekly update for 2020-02-01 ~ 2020-02-14, with upd
     https://github.com/apache/pulsar/pull/6201
 
     https://github.com/apache/pulsar/pull/6280
-    
+
     https://github.com/apache/pulsar/pull/6191
     
-- [Client][Java] Fix get schema version in HttpLookupService. (Release: 2.6.0, 2.5.1)
+- [Client][Java] Fix get schema version in HttpLookupService (Release: 2.6.0, 2.5.1).
 
     https://github.com/apache/pulsar/pull/6193
     
-- [Client][Java] Flush the potential duplicated message when adding messages to a batch (Release: 2.6.0, 2.5.1)
+- [Client][Java] Flush the potential duplicated message when adding messages to a batch (Release: 2.6.0, 2.5.1).
 
     https://github.com/apache/pulsar/pull/6326
 
