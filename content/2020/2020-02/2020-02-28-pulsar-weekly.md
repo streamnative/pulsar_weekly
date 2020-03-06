@@ -82,7 +82,7 @@ This is the Pulsar community weekly update for 2020-02-15 ~ 2020-02-28, with upd
 
     https://github.com/apache/pulsar/pull/6406
     
-- [Proxy][Security] fix the bug of authenticationData is't initialized (Release: 2.6.0, 2.5.1).
+- [Proxy][Security] Fix the bug of authenticationData isn't initialized (Release: 2.6.0, 2.5.1).
 
     https://github.com/apache/pulsar/pull/6440
     
