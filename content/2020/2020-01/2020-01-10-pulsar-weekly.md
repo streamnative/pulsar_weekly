@@ -3,6 +3,7 @@ title: "2020-01-10-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-01-04 ~ 2020-01-10"
 date: 2020-01-04 ~ 2020-01-10
 description: "This is the Pulsar community weekly update for 2020-01-04 ~ 2020-01-10, with updates on key-hash range reader and multiple critical bug fixes around broker and storage"
+id: "2020-01-10-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-01-04 ~ 2020-01-10

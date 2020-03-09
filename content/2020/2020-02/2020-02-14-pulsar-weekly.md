@@ -3,6 +3,7 @@ title: "2020-02-14-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-02-01 ~ 2020-02-14"
 date: 2020-02-01 ~ 2020-02-14
 description: "This is the Pulsar community weekly update for 2020-02-01 ~ 2020-02-14, with updates on refreshing authentication credentials, namespace level offloader, new bundle split algorithm to support evenly distributing topics, and many bug fixes and enhancements around helm chart."
+id: "2020-02-14-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-02-01 ~ 2020-02-14

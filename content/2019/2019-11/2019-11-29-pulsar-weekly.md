@@ -3,6 +3,7 @@ title: "2019-11-29-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-11-23 ~ 2019-11-29"
 date: 2019-11-23 ~ 2019-11-29
 description: "This is the Pulsar community weekly update for 2019-11-23 ~ 2019-11-29, with updates on Pulsar user conference @PulsarSummit, Pulsar Manager 0.1.0 release, broker-level publish rate limiting and many other enhancements around metrics and documentation."
+id: "2019-11-29-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2019-11-23 ~ 2019-11-29

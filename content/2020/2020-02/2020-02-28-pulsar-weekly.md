@@ -3,6 +3,7 @@ title: "2020-02-28-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-02-15 ~ 2020-02-28"
 date: 2020-02-15 ~ 2020-02-28
 description: "This is the Pulsar community weekly update for 2020-02-15 ~ 2020-02-28, with updates on improving ZooKeeper session expiry handling, supporting message acknowledgment at the batch index level, release 2.5.1 and many features and bug fixes."
+id: "2020-02-28-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-02-15 ~ 2020-02-28

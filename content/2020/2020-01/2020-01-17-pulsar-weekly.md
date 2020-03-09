@@ -3,6 +3,7 @@ title: "2020-01-17-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-01-11 ~ 2020-01-17"
 date: 2020-01-11 ~ 2020-01-17
 description: "This is the Pulsar community weekly update for 2020-01-11 ~ 2020-01-17, with updates on 2.5.0 release and new proposals about refreshing authentication credentials and message acknowledgment with batches."
+id: "2020-01-17-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-01-11 ~ 2020-01-17
