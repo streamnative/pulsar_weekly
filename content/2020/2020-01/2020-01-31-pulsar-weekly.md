@@ -3,6 +3,7 @@ title: "2020-01-31-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-01-18 ~ 2020-01-31"
 date: 2020-01-18 ~ 2020-01-31
 description: "This is the Pulsar community weekly update for 2020-01-18 ~ 2020-01-31, with updates on Pulsar CI, release process, community growth, and activities"
+id: "2020-01-31-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-01-18 ~ 2020-01-31

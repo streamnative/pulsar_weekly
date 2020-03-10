@@ -3,6 +3,7 @@ title: "2019-11-16-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-11-09 ~ 2019-11-16"
 date: 2019-11-09 ~ 2019-11-16
 description: "This is the Pulsar community weekly update for 2019-11-09 ~ 2019-11-16, with updates on notable bug fixes around idempotent producer with external sequence id, data retention issues, features around java client and functions, and more."
+id: "2019-11-16-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2019-11-09 ~ 2019-11-16

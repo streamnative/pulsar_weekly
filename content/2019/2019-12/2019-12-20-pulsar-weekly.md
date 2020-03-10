@@ -3,6 +3,7 @@ title: "2019-12-20-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-12-07 ~ 2019-12-20"
 date: 2019-12-07 ~ 2019-12-20
 description: "This is the Pulsar community weekly update for 2019-12-07 ~ 2019-12-20, with updates on DotPulsar, key windowed function, Pulsar Native Go client, batch authorization of partitioned topic, API document, and so on."
+id: "2019-12-20-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2019-12-07 ~ 2019-12-20

@@ -3,6 +3,7 @@ title: "2019-12-06-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-11-30 ~ 2019-12-06"
 date: 2019-11-30 ~ 2019-12-06
 description: "This is the Pulsar community weekly update for 2019-11-30 ~ 2019-12-06, with updates on broker supports dispatch throttling relative to publish-rate, pulsar-manager supports user login, and the progress about Pulsar releases."
+id: "2019-12-06-pulsar-weekly"
 ---
 
 ## [Puslar Community Weekly Update] 2019-11-30 ~ 2019-12-06

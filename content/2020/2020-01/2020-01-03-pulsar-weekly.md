@@ -3,6 +3,7 @@ title: "2020-01-03-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2019-12-21 ~ 2020-01-03"
 date: 2019-12-21 ~ 2020-01-03
 description: "This is the Pulsar community weekly update for 2019-12-21 ~ 2020-01-03, with updates on Pulsar Summit, Hacker news, and bug fixes for 2.5.0 release"
+id: "2020-01-03-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2019-12-21 ~ 2020-01-03
