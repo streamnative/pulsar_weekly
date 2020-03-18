@@ -3,6 +3,7 @@ title: "2020-03-06-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-02-29 ~ 2020-03-06"
 date: 2020-02-29 ~ 2020-03-06
 description: "This is the Pulsar community weekly update for 2020-02-29 ~ 2020-03-06, with updates on introducing gPRC protocol handler on Pulsar broker, adding flags to disable auto creation of subscriptions, adding TenantAdmin interface to authorization, fixing multiple bugs for Pulsar 2.5.1, and so on."
+id: "2020-03-06-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-02-29 ~ 2020-03-06
