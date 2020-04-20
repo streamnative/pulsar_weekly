@@ -85,21 +85,21 @@ This is the Pulsar community weekly update for 2020-04-04 ~ 2020-04-17, with upd
   
     - 005: Take a deep-dive into Pulsar architecture for performance tuning
   
-        - recording: https://www.youtube.com/watch?v=8O_RNYHX9tI
+        - Recording: https://www.youtube.com/watch?v=8O_RNYHX9tI
   
     - 006: Lifecycle of a Pulsar message
   
-        - recording: https://www.youtube.com/watch?v=R197TYYFaiI
+        - Recording: https://www.youtube.com/watch?v=R197TYYFaiI
 
 - Upcoming events
   
     - 04/28: StreamNative Webinar - "Common architectural patterns on Apache Pulsar" by Devin Bost
   
-        - Registration Link: https://zoom.us/webinar/register/7515867672387/WN_eV-yBB-aQ0yU4uqLvPpgjg 
+        - Registration link: https://zoom.us/webinar/register/7515867672387/WN_eV-yBB-aQ0yU4uqLvPpgjg 
         
     - 04/30: "Event Streaming with Apache Pulsar" by Sijie Guo in open source community data #ossday
   
-        - Registration Link: https://web.cvent.com/event/001916f7-391a-4e9e-b0d8-0688882c85e3/summary?RefId=Web
+        - Registration link: https://web.cvent.com/event/001916f7-391a-4e9e-b0d8-0688882c85e3/summary?RefId=Web
 
 ### Blog / Article
 
@@ -110,3 +110,7 @@ This is the Pulsar community weekly update for 2020-04-04 ~ 2020-04-17, with upd
 - 4 Data Trends to Watch in 2020 (by Astasia Myers)
 
     https://medium.com/memory-leak/4-data-trends-to-watch-in-2020-491707902c09
+
+- How to Build a Distributed Database with Apache BookKeeper — Part 2 (by Enrico Olivelli)
+
+    https://streamnative.io/blog/tech/2020-04-14-distributed-database-bk2/
