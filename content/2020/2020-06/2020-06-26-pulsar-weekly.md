@@ -48,7 +48,7 @@ This is the Pulsar community weekly update for 2020-06-20 ~ 2020-06-26, with upd
 
     https://github.com/apache/pulsar/pull/7241
 
-- [Storage] Fix the issue of producer is stuck on creating ledger timeout.
+- [Storage] Fix the issue of producers are stuck on creating ledger timeout.
 
     https://github.com/apache/pulsar/pull/7319
 
@@ -76,7 +76,7 @@ This is the Pulsar community weekly update for 2020-06-20 ~ 2020-06-26, with upd
 
     https://www.signifytechnology.com/blog/2020/06/connecting-millions-of-users-by-andreas-koestler-at-scala-in-the-city-conference
     
-- [TGIP] weekly live stream about Pulsar and its ecosystem
+- [TGIP] Weekly live stream about Pulsar and its ecosystem
 
     - 014: Pulsar Schema and Flink Integration - Sijie Guo
 
