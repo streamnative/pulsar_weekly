@@ -2,16 +2,15 @@
 title: "YYYY-MM-DD-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - YYYY-MM-DD ~ YYYY-MM-DD"
 date: YYYY-MM-DD ~ YYYY-MM-DD
-description: "This is the weekly community update for YYYY-MM-DD ~ YYYY-MM-DD, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family."
+description: "This is the Pulsar community weekly update for YYYY-MM-DD ~ YYYY-MM-DD, with updates on [placeholder for highlights]."
 id: filename
 ---
 
 ## [Community Weekly Update] YYYY-MM-DD ~ YYYY-MM-DD 
 
-This is the weekly community update for YYYY-MM-DD ~ YYYY-MM-DD, which helps you quickly capture Pulsar's highlights and spot trends over last week, meanwhile strengthen the communication and connection within the Pulsar family.
+This is the weekly community update for YYYY-MM-DD ~ YYYY-MM-DD, with updates on [placeholder for highlights].
 
-
-### Pulsar Development
+### Development
 
 * xxx
 * xxx
@@ -45,3 +44,4 @@ This is the weekly community update for YYYY-MM-DD ~ YYYY-MM-DD, which helps you
 
 * xxx
 * xxx
+
