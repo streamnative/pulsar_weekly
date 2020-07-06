@@ -91,4 +91,4 @@ This is the Pulsar community weekly update for 2020-06-20 ~ 2020-06-26, with upd
 - Creating an External Scaler for KEDA - Krishnaraj Varma
 
     https://medium.com/@krvarma/creating-an-external-scaler-for-keda-31b314b5c4a3
-
+    
