@@ -16,7 +16,7 @@ This is the Pulsar community weekly update for 2020-07-04 ~ 2020-07-10, with upd
 
     https://github.com/apache/pulsar/pull/7475
     
-- [C++ Client] Add support for oauth2 auth.
+- [C++ Client] Add support for OAuth2 authentication.
 
     https://github.com/apache/pulsar/pull/7467
     
@@ -24,21 +24,21 @@ This is the Pulsar community weekly update for 2020-07-04 ~ 2020-07-10, with upd
 
     https://github.com/apache/pulsar/pull/7466
     
-- [Function] Allow function rebalance to be run periodically.
+- [Function] Allow function rebalance to run periodically.
 
     https://github.com/apache/pulsar/pull/7449
     
 ### Notable Bug Fix
 
-- [Gep Replication] Handle `NoSuchElemetnException` when update geo replication policy.
+- [Gep Replication] Handle `NoSuchElemetnException` when updating geo replication policy.
 
     https://github.com/apache/pulsar/pull/7514
     
-- [Function] Fixed deadlock between create function and leader initialization.
+- [Function] Fix deadlock between create function and leader initialization.
 
     https://github.com/apache/pulsar/pull/7508
     
-- [Broker] Fixed get last entry is trying to read entry -1.
+- [Broker] Fix get last entry is trying to read entry -1.
 
     https://github.com/apache/pulsar/pull/7495
     
@@ -46,11 +46,11 @@ This is the Pulsar community weekly update for 2020-07-04 ~ 2020-07-10, with upd
 
     https://github.com/apache/pulsar/pull/7483
     
-- [Broker] Avoid the NPE occurs in method `ManagedLedgerImpl.isOffloadedNeedsDelete`.
+- [Broker] Avoid the NPE occurs in the method `ManagedLedgerImpl.isOffloadedNeedsDelete`.
 
     https://github.com/apache/pulsar/pull/7389
     
-- [Broker] Fix update partitions error for non-persistent topic.
+- [Broker] Fix update partitions error for non-persistent topics.
 
     https://github.com/apache/pulsar/pull/7459
     
