@@ -12,7 +12,7 @@ This is the Pulsar community weekly update for 2020-07-04 ~ 2020-07-10, with upd
 
 ### Notable Feature
 
-- [Broker] Use CGroup CPU usage when present.
+- [Broker] Read the usage from `/sys/fs/cgroup/cpu/cpuacct.usage` when using CPU limits on a Docker container.
 
     https://github.com/apache/pulsar/pull/7475
     
