@@ -20,7 +20,7 @@ This is the Pulsar community weekly update for 2020-07-11 ~ 2020-07-17, with upd
   
     https://github.com/apache/pulsar/pull/6752
 
-- [Pulsar Client] Support Consumers Set Custom Retry Delay.
+- [Pulsar Client] Support setting customized retry delay for consumers.
   
     https://github.com/apache/pulsar/pull/6449
 
@@ -28,21 +28,21 @@ This is the Pulsar community weekly update for 2020-07-11 ~ 2020-07-17, with upd
   
     https://github.com/apache/pulsar/pull/7541
 
-- [Build] Update Jersey to 2.31.
+- [Build] Update Jersey version to v2.31.
 
     https://github.com/apache/pulsar/pull/7515
 
-- [Build] Update Jackson to 2.11.1 and ensure all dependencies are pinned.
+- [Build] Update Jackson version to v2.11.1 and ensure all dependencies are pinned.
   
     https://github.com/apache/pulsar/pull/7519
 
-- [Build] Use Github actions cache for Maven dependencies.
+- [Build] Use GitHub actions cache for Maven dependencies.
   
     https://github.com/apache/pulsar/pull/7527
 
 ### Notable Bug Fix
 
-- [Broker] Timeout opening managed ledger operation.
+- [Broker] Introduce a timeout mechanism in the managed ledger factory.
 
     https://github.com/apache/pulsar/pull/7506
 
@@ -58,15 +58,15 @@ This is the Pulsar community weekly update for 2020-07-11 ~ 2020-07-17, with upd
 
     https://github.com/apache/pulsar/pull/7522
 
-- [Pulsar Client] Decompression payload if needed in KeyShared subscription.
+- [Pulsar Client] Decompress payload if needed in KeyShared subscription.
 
     https://github.com/apache/pulsar/pull/7416
 
-- [Pulsar Functions] Fix function BC issue introduced in release 2.6.
+- [Pulsar Functions] Fix function BC issue introduced in release 2.6.0.
 
     https://github.com/apache/pulsar/pull/7528
 
-- [Broker] Cleanup already deleted namespace topics.
+- [Broker] Clean deleted topics from the namespace.
 
     https://github.com/apache/pulsar/pull/7473
 
@@ -87,6 +87,12 @@ This is the Pulsar community weekly update for 2020-07-11 ~ 2020-07-17, with upd
 - [TGIP] Weekly live stream about Pulsar and its ecosystem.
 
     All video recordings are available at [here](https://streamnative.io/resource#tgip).
+
+- Upcoming events
+
+  - 07/28: StreamNative Webinar - "How to Operate Pulsar in Production" by Matteo Merli, Joe Frances, Sijie Guo, and Addison Higham
+
+        Registration link: https://us02web.zoom.us/webinar/register/WN_xMt6QBJ9TWiyeVdifqKITg
 
 ### Blog / Article
 
