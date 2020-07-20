@@ -92,7 +92,7 @@ This is the Pulsar community weekly update for 2020-07-11 ~ 2020-07-17, with upd
 
   - 07/28: StreamNative Webinar - "How to Operate Pulsar in Production" by Matteo Merli, Joe Frances, Sijie Guo, and Addison Higham
 
-        Registration link: https://us02web.zoom.us/webinar/register/WN_xMt6QBJ9TWiyeVdifqKITg
+    Registration link: https://us02web.zoom.us/webinar/register/WN_xMt6QBJ9TWiyeVdifqKITg
 
 ### Blog / Article
 
