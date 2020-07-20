@@ -70,7 +70,7 @@ This is the Pulsar community weekly update for 2020-07-11 ~ 2020-07-17, with upd
 
     https://github.com/apache/pulsar/pull/7473
 
-- [Broker] Fix topic getting recreated immediately after deletion.
+- [Broker] Fix the issue that topic is recreated immediately after deletion.
 
     https://github.com/apache/pulsar/pull/7524
 
