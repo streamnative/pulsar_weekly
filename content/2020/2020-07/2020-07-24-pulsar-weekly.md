@@ -52,7 +52,7 @@ This is the Pulsar community weekly update for 2020-07-18 ~ 2020-07-24, with upd
 
 - Upcoming events
 
-  - 07/28: StreamNative Webinar - "How to Operate Pulsar in Production" by Matteo Merli, Joe Frances, Sijie Guo, and Addison Higham
+  - 07/28: StreamNative Webinar - "How to Operate Pulsar in Production" by Matteo Merli, Joe Frances, Addison Higham and Sijie Guo
 
     Registration link: https://us02web.zoom.us/webinar/register/WN_xMt6QBJ9TWiyeVdifqKITg
 
@@ -60,7 +60,7 @@ This is the Pulsar community weekly update for 2020-07-18 ~ 2020-07-24, with upd
 
 - Pulsar vs. Kafka: A More Accurate Perspective from Features and Performance to Use Cases and Community
 
-    - https://streamnative.io/whitepaper/pulsar-vs-kafka-sn
+    - https://streamnative.io/whitepaper/pulsar-vs-kafka
 
 - Pulsar vs Kafka - Part 2 - Adoption, Use Cases, Differentiators, and Community
 
