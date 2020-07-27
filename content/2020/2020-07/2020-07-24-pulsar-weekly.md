@@ -8,7 +8,7 @@ id: "2020-07-24-pulsar-weekly"
 
 ## [Pulsar Community Weekly Update] 2020-07-18 ~ 2020-07-24
 
-This is the Pulsar community weekly update for 2020-07-18 ~ 2020-07-24, with updates on Pulsar authentication, broker, Functions, and so on.
+This is the Pulsar community weekly update for 2020-07-18 ~ 2020-07-24, with updates on Pulsar clients, Functions, and so on.
 
 ### Notable Feature
 
