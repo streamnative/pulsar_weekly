@@ -58,7 +58,7 @@ This is the Pulsar community weekly update for 2020-07-18 ~ 2020-07-24, with upd
 
 ### Blog / Article
 
-- Pulsar vs. Kafka: A More Accurate Perspective from Features and Performance to Use Cases and Community
+- Pulsar vs. Kafka: A More Accurate Perspective from Use Cases and Community to Features and Performance
 
     - https://streamnative.io/whitepaper/pulsar-vs-kafka
 
