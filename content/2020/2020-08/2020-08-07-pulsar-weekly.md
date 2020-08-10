@@ -56,13 +56,13 @@ This is the Pulsar community weekly update for 2020-08-01 ~ 2020-08-07, with upd
     
 - [Pulsar SQL] Make Pulsar SQL get correct offload configurations.
 
-    https://github.com/apache/pulsar/pull/7708
+    https://github.com/apache/pulsar/pull/7701
     
 - [Pulsar Proxy] Handle NPE while updating proxy stats.
 
     https://github.com/apache/pulsar/pull/7766
     
-- [Broker] Fix the bug that the producer for geo-replication is not closed when topic is unloaded.
+- [Broker] Fix the bug that the producer for geo-replication is not closed when the topic is unloaded.
 
     https://github.com/apache/pulsar/pull/7735
     
@@ -94,6 +94,6 @@ This is the Pulsar community weekly update for 2020-08-01 ~ 2020-08-07, with upd
 
 ### Blog / Article
 
-- Global and local Apache ZooKeeper in Apache Pulsar - part 2 - Bartosz Konieczny 
+- Global and local Apache ZooKeeper in Apache Pulsar - part 2 - Bartosz Konieczny
 
-    - https://streamnative.io/whitepaper/pulsar-vs-kafka
+    - https://www.waitingforcode.com/apache-pulsar/global-local-apache-zookeeper-apache-pulsar-part-2/read
