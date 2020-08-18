@@ -12,18 +12,18 @@ This is the weekly community update for YYYY-MM-DD ~ YYYY-MM-DD, with updates on
 
 ### Development
 
-* xxx
-* xxx
+* xxx by[@github_name](github_link)
+* xxx by[@github_name](github_link)
 
 ### Notable Feature
 
-* xxx
-* xxx
+* xxx by[@github_name](github_link)
+* xxx by[@github_name](github_link)
 
 ### Notable Bug Fix
 
-* xxx
-* xxx
+* xxx by[@github_name](github_link)
+* xxx by[@github_name](github_link)
 
 ### Ecosystem
 
