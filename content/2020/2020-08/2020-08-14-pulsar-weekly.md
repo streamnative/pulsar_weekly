@@ -93,13 +93,3 @@ This is the Pulsar community weekly update for 2020-08-08 ~ 2020-08-14, with upd
   - 09/09 "Apache Pulsar: Under the Hood for Java Developers" by Addison Higham in the Israeli Java Community (Java.IL)
 
     http://meetup.com/JavaIL/events/272501454/
-
-### Blog / Article
-
-- How Apache Pulsar Functions are Enablers for ML and Event Stream Processing (by Pandio)
-
-  - https://pandio.com/blog/how-apache-pulsar-functions-are-enablers-for-ml-and-event-stream-processing/
-
-- Why Is Geo-Replication Functionality So Important For Apache Pulsar Users (by Pandio)
-
-  - https://pandio.com/blog/why-is-geo-replication-functionality-so-important-for-apache-pulsar-users/?utm_source=dlvr.it&utm_medium=twitter
