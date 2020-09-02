@@ -38,7 +38,7 @@ This is the Pulsar community weekly update for 2020-08-22 ~ 2020-08-28, with upd
 
   https://github.com/apache/pulsar/pull/7861 (@[massakam](https://github.com/massakam))
 
-- [Broker] Fix deadlock which occurred when adding consumers.
+- [Broker] Fix deadlock that occurred when adding consumers.
 
   https://github.com/apache/pulsar/pull/7841 (@[massakam](https://github.com/massakam))
   
