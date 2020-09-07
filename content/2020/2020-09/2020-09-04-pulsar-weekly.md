@@ -20,11 +20,11 @@ This is the Pulsar community weekly update for 2020-08-29 ~ 2020-09-04, with upd
 
     https://github.com/apache/pulsar/pull/7953 (@[gaoran10](https://github.com/gaoran10))
 
-- [Transaction] Optimize the logic for consume transaction messages.
+- [Transaction] Optimize the logic for consuming transaction messages.
 
     https://github.com/apache/pulsar/pull/7833 (@[gaoran10](https://github.com/gaoran10))
 
-- [Topic Policy] Support topic-level `inactiveTopicPolicies`.
+- [Topic Policy] Support setting, getting, and removing `inactiveTopicPolicies` on the topic level.
 
     https://github.com/apache/pulsar/pull/7986 (@[315157973](https://github.com/315157973))
 
@@ -46,7 +46,7 @@ This is the Pulsar community weekly update for 2020-08-29 ~ 2020-09-04, with upd
 
     https://github.com/apache/pulsar/pull/7937 (@[Technoboy-](https://github.com/Technoboy-))
 
-- [Broker] Stop dispatching messages when messages are skipped temporally since the Key_Shared consumer is stuck on delivery.
+- [Broker] Stop dispatching messages when messages are skipped temporarily since the Key_Shared consumer is stuck on delivery.
     
     https://github.com/apache/pulsar/pull/7553 (@[equanz](https://github.com/equanz))
 
