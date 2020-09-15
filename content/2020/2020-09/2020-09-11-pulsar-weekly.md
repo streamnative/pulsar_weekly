@@ -2,13 +2,13 @@
 title: "2020-09-11-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-09-05 ~ 2020-09-11"
 date: 2020-09-05 ~ 2020-09-11
-description: "This is the Pulsar community weekly update for 2020-09-05 ~ 2020-09-11, with updates on Pulsar clients, transaction, Oauth2 authentication, Functions, security, and so on."
+description: "This is the Pulsar community weekly update for 2020-09-05 ~ 2020-09-11, with updates on Pulsar clients, transaction, OAuth2 authentication, Functions, security, and so on."
 id: "2020-09-11-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-09-05 ~ 2020-09-11
 
-This is the Pulsar community weekly update for 2020-09-05 ~ 2020-09-11, with updates on Pulsar clients, transaction, Oauth2 authentication, Functions, security, and so on.
+This is the Pulsar community weekly update for 2020-09-05 ~ 2020-09-11, with updates on Pulsar clients, transaction, OAuth2 authentication, Functions, security, and so on.
 
 ### Development
 
@@ -24,7 +24,7 @@ This is the Pulsar community weekly update for 2020-09-05 ~ 2020-09-11, with upd
 
     https://github.com/apache/pulsar/pull/7968 (@[zhanghaou](https://github.com/zhanghaou))
 
-- [Transaction] Update the transaction acknowledgement abort process on subscription.
+- [Transaction] Update the acknowledgement abort process on subscription.
 
     https://github.com/apache/pulsar/pull/7979 (@[gaoran10](https://github.com/gaoran10))
 
@@ -40,7 +40,7 @@ This is the Pulsar community weekly update for 2020-09-05 ~ 2020-09-11, with upd
 
     https://github.com/apache/pulsar/pull/7989 (@[315157973](https://github.com/315157973))
 
-- [OAuth2] Get the Oauth2 token endpoint from the well-known configuration.
+- [OAuth2] Get the OAuth2 token endpoint from the well-known configuration.
 
     https://github.com/apache/pulsar/pull/8006 (@[zymap](https://github.com/zymap))
 
