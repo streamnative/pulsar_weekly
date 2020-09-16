@@ -92,7 +92,7 @@ This is the Pulsar community weekly update for 2020-09-05 ~ 2020-09-11, with upd
 
   - 09/09: "Apache Pulsar: Under the Hood for Java Developers" by Addison Higham in the Israeli Java Community (Java.IL)
 
-    - Slides: https://docs.google.com/presentation/d/1zJdeFK9VVTDKL76UQimGWoJQOBlpEo5fmkGLbLh70GY/edit#slide=id.g944de4dcda_0_334
+    - Slides: https://www.slideshare.net/streamnative/apache-pulsar-under-the-hood
     - Video: https://www.youtube.com/watch?v=8DkZKsjjcG0&feature=youtu.be
 
 ### Blog / Article
