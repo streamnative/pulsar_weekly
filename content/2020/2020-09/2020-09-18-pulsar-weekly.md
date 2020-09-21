@@ -24,7 +24,7 @@ This is the Pulsar community weekly update for 2020-09-12 ~ 2020-09-18, with upd
 
     https://github.com/apache/pulsar/pull/8065 (@[hrsakai](https://github.com/hrsakai ))
 
-- [Bouncy Castle] Upgrade Bouncy Castle to the newest version.
+- [Bouncy Castle] Upgrade Bouncy Castle to the latest version.
 
     https://github.com/apache/pulsar/pull/8047 (@[srkukarni](https://github.com/srkukarni))
 
