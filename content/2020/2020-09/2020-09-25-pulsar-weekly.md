@@ -16,7 +16,7 @@ This is the Pulsar community weekly update for 2020-09-19 ~ 2020-09-25, with upd
 
     https://github.com/apache/pulsar/pull/8117(@[racorn](https://github.com/racorn))
 
-- [Pulsar SQL] Replace `com.ning.asynchttpclient` with `org.asynchttpclient`.
+- [Pulsar SQL] Replace `com.ning.asynchttpclient` with `org.asynchttpclient` to enhance security.
 
     https://github.com/apache/pulsar/pull/8099(@[zymap](https://github.com/zymap))
 
@@ -60,7 +60,7 @@ This is the Pulsar community weekly update for 2020-09-19 ~ 2020-09-25, with upd
 
     https://github.com/apache/pulsar/pull/7993(@[murong00](https://github.com/murong00))
 
-- [Topic Policy] Support setting, getting, and removing the subscription dispatch rate on the topic level.
+- [Topic Policy] Support setting, getting, and removing the subscription-based dispatch rate on the topic level.
 
     https://github.com/apache/pulsar/pull/8087(@[hangc0276](https://github.com/hangc0276))
 
@@ -68,11 +68,11 @@ This is the Pulsar community weekly update for 2020-09-19 ~ 2020-09-25, with upd
 
     https://github.com/apache/pulsar/pull/7991(@[hangc0276](https://github.com/hangc0276))
 
-- [Client] Support dynamically loading the Truststore certificate through the  input stream.
+- [Client] Support dynamically loading the Truststore certificate through the input stream.
 	
     https://github.com/apache/pulsar/pull/7442(@[rdhabalia](https://github.com/rdhabalia))
 
-- [Broker] Replace `IdentityHashMap` with `set -- Collections.newSetFromMap(new ConcurrentHashMap<>())` to hold the reference of producers/consumers .
+- [Broker] Replace `IdentityHashMap` with `set -- Collections.newSetFromMap(new ConcurrentHashMap<>())` to hold the reference of producers/consumers.
 
     https://github.com/apache/pulsar/pull/8051(@[Technoboy-](https://github.com/Technoboy-))
 
@@ -86,7 +86,7 @@ This is the Pulsar community weekly update for 2020-09-19 ~ 2020-09-25, with upd
 
     https://github.com/apache/pulsar/pull/7957(@[Renkai](https://github.com/Renkai))
 
-- [Client] Fix client lookup hangs when the broker restarts.
+- [Client] Fix the issue that the the client lookup hangs when the broker restarts.
 
     https://github.com/apache/pulsar/pull/8101(@[4onni](https://github.com/4onni))
 
