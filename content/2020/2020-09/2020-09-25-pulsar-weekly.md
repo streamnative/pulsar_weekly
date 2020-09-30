@@ -82,7 +82,7 @@ This is the Pulsar community weekly update for 2020-09-19 ~ 2020-09-25, with upd
 
    https://github.com/apache/pulsar/pull/8118(@[jerrypeng](https://github.com/jerrypeng))
 
-- [Client] Use the bytes of messages instead the number of messages for the producer to pend messages.
+- [Client] Use the bytes of messages instead of the number of messages for the producer to pend messages.
 
     https://github.com/apache/pulsar/pull/7957(@[Renkai](https://github.com/Renkai))
 
