@@ -82,6 +82,7 @@ This is the Pulsar community weekly update for 2020-09-19 ~ 2020-09-25, with upd
 
    https://github.com/apache/pulsar/pull/8118(@[jerrypeng](https://github.com/jerrypeng))
 
+
 - [Client] Fix the issue that the client lookup hangs when the broker restarts.
 
     https://github.com/apache/pulsar/pull/8101(@[4onni](https://github.com/4onni))
