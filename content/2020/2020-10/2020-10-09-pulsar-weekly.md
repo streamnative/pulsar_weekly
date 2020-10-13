@@ -189,3 +189,7 @@ This is the Pulsar community weekly update for 2020-09-26 ~ 2020-10-09, with upd
 - Building An Event-Driven Orchestration Engine - Gilles Barbier
 
   - https://medium.com/@gillesbarbier/building-an-event-driven-orchestration-engine-bf62d45aef5d
+
+- Pulsar Function Deep Dive - Sanjeev Kulkarni
+
+  - https://streamnative.io/blog/tech/2020-10-06-pulsar-functions-deep-dive
