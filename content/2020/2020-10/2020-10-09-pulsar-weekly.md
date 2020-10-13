@@ -164,6 +164,10 @@ This is the Pulsar community weekly update for 2020-09-26 ~ 2020-10-09, with upd
 
   - All video recordings are available at [here](https://streamnative.io/resource#tgip).
 
+- [ApacheCon] ApacheCon @Home 2020
+
+    - All video recordings are available at [here](https://www.youtube.com/playlist?list=PLU2OcwpQkYCy_awEe5xwlxGTk5UieA37m).
+
 - [Training]
 
   - Broker Routing
