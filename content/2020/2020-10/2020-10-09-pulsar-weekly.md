@@ -92,7 +92,7 @@ This is the Pulsar community weekly update for 2020-09-26 ~ 2020-10-09, with upd
 
     https://github.com/apache/pulsar/pull/8166 (@[315157973](https://github.com/315157973))
 
-- [Topic Policy] Support null check to avoid the NPE for `internalSetTopicPolicies`.
+- [Topic Policy] Check null to avoid the NPE for `internalSetTopicPolicies`.
 
     https://github.com/apache/pulsar/pull/8201 (@[hangc0276](https://github.com/hangc0276))
 
