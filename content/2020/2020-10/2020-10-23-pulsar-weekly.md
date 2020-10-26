@@ -84,7 +84,7 @@ by [@Renkai](https://github.com/Renkai)
 
     https://github.com/apache/pulsar/pull/8284 ([@hangc0276](https://github.com/hangc0276))
 
-- [C++ Client] The client allocates more buffers than required.
+- [C++ Client] Fix the issue that the client always allocates more buffers than required.
 
     https://github.com/apache/pulsar/pull/8283 ([@merlimat](https://github.com/merlimat))
 
