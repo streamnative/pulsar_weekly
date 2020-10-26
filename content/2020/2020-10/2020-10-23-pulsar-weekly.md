@@ -12,7 +12,9 @@ This is the Pulsar community weekly update for 2020-10-17 ~ 2020-10-23, with upd
 
 ### Pulsar Highlight
 
-Pulsar has supported acknowledging the batch message index since release 2.6.0. But Pulsar does not support setting the cursor. If users reset the cursor to a batch index of the batch message when consuming messages again, they will get the batch index again. Now, Pulsar supports resetting the cursor to a batch index of the batch message.
+Pulsar supports resetting the cursor to a batch index of the batch message now.
+
+In 2.6.0 release, Pulsar supports acknowledging the batch message index, yet users cannot set the cursor. If users reset the cursor to a batch index of the batch message when consuming messages again, they will get the batch index again. 
 
 by [@Renkai](https://github.com/Renkai)
 
