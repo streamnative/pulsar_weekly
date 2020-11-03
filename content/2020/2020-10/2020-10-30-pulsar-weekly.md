@@ -32,7 +32,7 @@ by [@hnail](https://github.com/hnail))
 
     https://github.com/apache/pulsar/pull/8381 ([@lhotari](https://github.com/lhotari))
 
-- [Broker] Allow the tenant Admin to loo kup topics.
+- [Broker] Allow the tenant Admin to look up for topics.
 
     https://github.com/apache/pulsar/pull/8353 ([@rdhabalia]https://github.com/rdhabalia)
     
@@ -78,7 +78,7 @@ by [@hnail](https://github.com/hnail))
 
     https://github.com/apache/pulsar/pull/8406 ([@massakam](https://github.com/massakam))
 
-- [Java client] Fix the issue that newly-created consumers cannot be paused for subscribing topics.
+- [Java client] Fix the issue that consumer pause does not work properly in case of consuming multiple topics.
 
     https://github.com/apache/pulsar/pull/8387 ([@aloyszhang](https://github.com/aloyszhang))
 
@@ -86,7 +86,7 @@ by [@hnail](https://github.com/hnail))
 
     https://github.com/apache/pulsar/pull/8358 ([@lhotari](https://github.com/lhotari))
 
-- [Go client] Fix the memory leak issue for in the Golang client.
+- [Go client] Fix the memory leak issue for the Golang client.
 
     https://github.com/apache/pulsar/pull/8325 ([@bschofield](https://github.com/bschofield))
 
