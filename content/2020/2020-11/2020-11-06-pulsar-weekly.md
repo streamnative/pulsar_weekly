@@ -80,7 +80,7 @@ by ([@gaoran10](https://github.com/gaoran10))
 
     https://github.com/apache/pulsar/pull/7842 ([@merlimat](https://github.com/merlimat))
 
-- [Client] Fix the `AutoUpdatePartitionsInterval` setting issue.
+- [Client] Fix the `AutoUpdatePartitionsInterval` setting.
 
     https://github.com/apache/pulsar/pull/8227 ([@RobertIndie](https://github.com/RobertIndie))
 
