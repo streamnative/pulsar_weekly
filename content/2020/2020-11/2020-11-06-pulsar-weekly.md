@@ -2,13 +2,13 @@
 title: "2020-11-06-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-10-31 ~ 2020-11-06"
 date: 2020-10-31 ~ 2020-11-06
-description: "This is the Pulsar community weekly update for 2020-10-31 ~ 2020-11-06, with updates on Pulsar client, broker, transaction, WebSocket, tiered Storage, and so on."
+description: "This is the Pulsar community weekly update for 2020-10-31 ~ 2020-11-06, with updates on Pulsar client, broker, transaction, WebSocket, tiered storage, and so on."
 id: "2020-11-06-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-10-31 ~ 2020-11-06
 
-This is the Pulsar community weekly update for 2020-10-31 ~ 2020-11-06, with updates on Pulsar client, broker, transaction, WebSocket, tiered Storage, and so on.
+This is the Pulsar community weekly update for 2020-10-31 ~ 2020-11-06, with updates on Pulsar client, broker, transaction, WebSocket, tiered storage, and so on.
 
 ### Pulsar Highlight
 
