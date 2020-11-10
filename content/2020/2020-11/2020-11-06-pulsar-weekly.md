@@ -12,7 +12,7 @@ This is the Pulsar community weekly update for 2020-10-31 ~ 2020-11-06, with upd
 
 ### Pulsar Highlight
 
-Support Azure BlobStore offload configuration. After this PR is merged, Pulsar supports using `Azure` to offload data. For details, see [PR-8436](https://github.com/apache/pulsar/pull/8436).
+Support Azure BlobStore offload configuration. Pulsar supports using `Azure` to offload data. For details, see [PR-8436](https://github.com/apache/pulsar/pull/8436).
 
 by ([@gaoran10](https://github.com/gaoran10))
 
@@ -60,11 +60,11 @@ by ([@gaoran10](https://github.com/gaoran10))
 
     https://github.com/apache/pulsar/pull/8451 ([@gaoran10](https://github.com/gaoran10))
 
-- [Proxy] Fix the issue that `request.getContentLength()` returns 0 if it is less than 0.
+- [Proxy] Ensure to pass 0 to the `ByteArrayOutputStreame` argument if `request.getContentLength()` returns a negative number.
 
     https://github.com/apache/pulsar/pull/8448 ([@magrain](https://github.com/magrain))
 
-- [Function] Fix the returned status code for getting Function state when the FUnction state does not exist.
+- [Function] Fix the returned status code for getting Function state when the Function state does not exist.
 
     https://github.com/apache/pulsar/pull/8437 ([@jerrypeng](https://github.com/jerrypeng))
 
