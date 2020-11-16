@@ -90,7 +90,7 @@ by (@[congbobo184](https://github.com/congbobo184))
 
 ### Notable Bug Fix
 
-- [Functions] Fix the issue that when overriding `jobName` in Kubernetes runtime with custom runtime options can have collisions when same `jobName` is used.
+- [Functions] Fix the conflict caused by the same `jobName` option.
 
     https://github.com/apache/pulsar/pull/8508 (@[jdbeck](https://github.com/jdbeck))
 
@@ -134,7 +134,7 @@ by (@[congbobo184](https://github.com/congbobo184))
 
 - Event-driven railway network based on Pulsar -- Pavels Sisojevs
 
-  - https://streamnative.io/blog/release/2020-10-28-streamnative-free-cloud
+  - https://scala.monster/train-station/
 
 - Powering Federated Learning at Tencent with Apache Pulsar
 
