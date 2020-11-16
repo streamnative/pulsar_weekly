@@ -116,13 +116,17 @@ by [@hnail](https://github.com/hnail))
 
   - All video recordings are available at [here](https://streamnative.io/resource#tgip).
 
-- [Traning]
+- [Training]
 
   - Low-Latency Stream Processing with Jet
 
     Slides: https://www.slideshare.net/streamnative/low-latency-stream-processing-with-jet
 
     Video: https://www.youtube.com/watch?v=wIJGusBxB70
+
+  - Flink + Pulsar: The Path To Unified Batch and Streaming - Addison Higham
+
+    Video: https://www.youtube.com/watch?v=4OHUTJDlnag
 
 - [Upcoming Event]
 
