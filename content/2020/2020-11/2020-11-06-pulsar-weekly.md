@@ -2,17 +2,17 @@
 title: "2020-11-06-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-10-31 ~ 2020-11-06"
 date: 2020-10-31 ~ 2020-11-06
-description: "This is the Pulsar community weekly update for 2020-10-31 ~ 2020-11-06, with updates on Pulsar client, broker, transaction, WebSocket, tiered Storage, and so on."
+description: "This is the Pulsar community weekly update for 2020-10-31 ~ 2020-11-06, with updates on Pulsar client, broker, transaction, WebSocket, tiered storage, and so on."
 id: "2020-11-06-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-10-31 ~ 2020-11-06
 
-This is the Pulsar community weekly update for 2020-10-31 ~ 2020-11-06, with updates on Pulsar client, broker, transaction, WebSocket, tiered Storage, and so on.
+This is the Pulsar community weekly update for 2020-10-31 ~ 2020-11-06, with updates on Pulsar client, broker, transaction, WebSocket, tiered storage, and so on.
 
 ### Pulsar Highlight
 
-Support Azure BlobStore offload configuration. After this PR is merged, Pulsar supports using `Azure` to offload data. For details, see [PR-8436](https://github.com/apache/pulsar/pull/8436).
+Support Azure BlobStore offload configuration. Pulsar supports using `Azure` to offload data. For details, see [PR-8436](https://github.com/apache/pulsar/pull/8436).
 
 by ([@gaoran10](https://github.com/gaoran10))
 
@@ -60,11 +60,11 @@ by ([@gaoran10](https://github.com/gaoran10))
 
     https://github.com/apache/pulsar/pull/8451 ([@gaoran10](https://github.com/gaoran10))
 
-- [Proxy] Fix the issue that `request.getContentLength()` returns 0 if it is less than 0.
+- [Proxy] Ensure to pass 0 to the `ByteArrayOutputStreame` argument if `request.getContentLength()` returns a negative number.
 
     https://github.com/apache/pulsar/pull/8448 ([@magrain](https://github.com/magrain))
 
-- [Function] Fix the returned status code for getting Function state when the FUnction state does not exist.
+- [Function] Fix the returned status code for getting Function state when the Function state does not exist.
 
     https://github.com/apache/pulsar/pull/8437 ([@jerrypeng](https://github.com/jerrypeng))
 
@@ -76,7 +76,7 @@ by ([@gaoran10](https://github.com/gaoran10))
 
     https://github.com/apache/pulsar/pull/7842 ([@merlimat](https://github.com/merlimat))
 
-- [Client] Fix the `AutoUpdatePartitionsInterval` setting issue.
+- [Client] Fix the `AutoUpdatePartitionsInterval` setting.
 
     https://github.com/apache/pulsar/pull/8227 ([@RobertIndie](https://github.com/RobertIndie))
 
