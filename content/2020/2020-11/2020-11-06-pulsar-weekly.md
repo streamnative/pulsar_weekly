@@ -68,10 +68,6 @@ by ([@gaoran10](https://github.com/gaoran10))
 
     https://github.com/apache/pulsar/pull/8437 ([@jerrypeng](https://github.com/jerrypeng))
 
-- [Client] Fix the `AutoUpdatePartitionsInterval` setting problem.
-
-    https://github.com/apache/pulsar/pull/8227 ([@RobertIndie](https://github.com/RobertIndie))
-
 - [Broker] Fix the hash collision in the Key_Shared subscription mode.
 
     https://github.com/apache/pulsar/pull/8396 ([@ltamber](https://github.com/ltamber))
