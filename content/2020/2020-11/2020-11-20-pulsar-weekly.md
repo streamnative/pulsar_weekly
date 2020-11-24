@@ -141,3 +141,19 @@ by (@[hnail](https://github.com/hnail))
 - Pulsar Advantages Over Kafka -- Javier Ramos
 
   - https://itnext.io/pulsar-advantages-over-kafka-7e0c2affe2d6
+
+- Pulsar Summit Asia 2020 Schedule is Now Online
+
+  - https://streamnative.io/en/blog/community/2020-11-17-pulsar-summit-asia-2020-announcement
+
+- Benchmarking Pulsar and Kafka: A More Accurate Perspective on Pulsar’s Performance
+
+  - https://streamnative.io/whitepaper/benchmark-pulsar-vs-kafka
+
+- Powering Federated Learning at Tencent with Apache Pulsar
+
+  - https://streamnative.io/whitepaper/tencent-angle
+
+- Apache Pulsar 2.6.2
+
+  - https://streamnative.io/en/blog/release/2020-11-20-pulsar-262
