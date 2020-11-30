@@ -2,13 +2,13 @@
 title: "2020-11-27-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-11-21 ~ 2020-11-27"
 date: 2020-11-21 ~ 2020-11-27
-description: "This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with updates on Pulsar client, broker, transaction, Functions, schema, Pulsar IO, and so on."
+description: "This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with updates on Pulsar client, broker, transaction, Functions, schema, tiered storage, and so on."
 id: "2020-11-27-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-11-21 ~ 2020-11-27
 
-This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with updates on Pulsar client, broker, transaction, Functions, schema, Pulsar IO, and so on.
+This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with updates on Pulsar client, broker, transaction, Functions, schema, tiered storage, and so on.
 
 ### Pulsar Highlight
 
