@@ -132,9 +132,9 @@ This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with upd
 
   - All video recordings are available at [here](https://streamnative.io/resource#tgip).
 
-  -  Pulsar Summit Asia 2020
+-  Pulsar Summit Asia 2020
 
-     https://pulsar-summit.org/en/event/asia-2020å
+   https://pulsar-summit.org/en/event/asia-2020
 
 ### Blog / Article
 
