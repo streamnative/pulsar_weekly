@@ -2,17 +2,17 @@
 title: "2020-11-27-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-11-21 ~ 2020-11-27"
 date: 2020-11-21 ~ 2020-11-27
-description: "This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with updates on Pulsar client, broker, transaction, Functions, schema, tiered storage, and so on."
+description: "This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with updates on Pulsar client, broker, transactions, Functions, schema, tiered storage, and so on."
 id: "2020-11-27-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-11-21 ~ 2020-11-27
 
-This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with updates on Pulsar client, broker, transaction, Functions, schema, tiered storage, and so on.
+This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with updates on Pulsar client, broker, transactions, Functions, schema, tiered storage, and so on.
 
 ### Pulsar Highlight
 
-- Add the transaction log for Pulsar and implementation of PIP-31.
+- Add the transactions log for Pulsar and implementation of PIP-31.
 
     https://github.com/apache/pulsar/wiki/PIP-31%3A-Transaction-Support
 
@@ -32,7 +32,7 @@ This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with upd
 
 ### Notable Feature
 
-- [Transaction] Add the transaction log for Pulsar.
+- [Transactions] Add the transactions log for Pulsar.
 
     https://github.com/apache/pulsar/pull/8658 (@[congbobo184](https://github.com/congbobo184))
 
@@ -131,6 +131,10 @@ This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with upd
 - [TGIP] Weekly live stream about Pulsar and its ecosystem.
 
   - All video recordings are available at [here](https://streamnative.io/resource#tgip).
+
+  -  Pulsar Summit Asia 2020
+
+     https://pulsar-summit.org/en/event/asia-2020å
 
 ### Blog / Article
 
