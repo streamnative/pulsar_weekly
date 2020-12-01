@@ -128,13 +128,14 @@ This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with upd
 
 ### Event / News
 
+-  Pulsar Summit Asia 2020
+Pulsar Summit Asia 2020, organized by StreamNative, was held successfully on Nov. 28th and 29th. The conference features more than 30 sessions on Pulsar use cases, its ecosystem, operations, and technology deep dives. Videos and slides will be shared on Pulsar Summit website soon.
+
+   - https://pulsar-summit.org/en/event/asia-2020
+
 - [TGIP] Weekly live stream about Pulsar and its ecosystem.
 
   - All video recordings are available at [here](https://streamnative.io/resource#tgip).
-
--  Pulsar Summit Asia 2020
-
-   - https://pulsar-summit.org/en/event/asia-2020
 
 ### Blog / Article
 
