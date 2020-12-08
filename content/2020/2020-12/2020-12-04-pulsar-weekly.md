@@ -52,6 +52,14 @@ https://github.com/apache/pulsar/pull/8761 (@[wolfstudy](https://github.com/wolf
 
   - All video recordings are available at [here](https://streamnative.io/resource#tgip).
 
+- Pulsar User Survey 2020
+
+  - https://forms.office.com/Pages/ResponsePage.aspx?id=2zjkx2LkIkypCsNYsWmAs96ZDwmey39DhXAvi6EqbJpUNlZWQzRPMlVWNTc1WUcwUE5CWFMyUlI3QS4u
+
+- Pulsar Summit Asia 2020
+
+   - https://www.youtube.com/watch?v=4uB8i4zZXSw&list=PLqRma1oIkcWjHlRb-dzjwYdETkVlyCJOq
+
 ### Blog / Article
 
 - Impact of Apache Pulsar 2.7 release on the development of Infinitic -- Gilles Barbier
