@@ -46,7 +46,7 @@ This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with upd
 
 - [Broker] Introduce the package management interface API.
 
-    https://github.com/apache/pulsar/pull/8669 (@[congbobo184](https://github.com/congbobo184))
+    https://github.com/apache/pulsar/pull/8669 (@[zymap](https://github.com/zymap))
 
 - [Broker] Support the HAProxy proxy protocol for the Pulsar broker and Pulsar proxy.
 
@@ -90,7 +90,7 @@ This is the Pulsar community weekly update for 2020-11-21 ~ 2020-11-27, with upd
 
     https://github.com/apache/pulsar/pull/8708 ([@lhotari](https://github.com/lhotari))
 
-- [CI] Fix the the issue that the "CI - Build - Multiple - OS" fails on the `macos-latest` runner.
+- [CI] Fix the issue that the "CI - Build - Multiple - OS" fails on the `macos-latest` runner.
 
     https://github.com/apache/pulsar/pull/8713 ([@lhotari](https://github.com/lhotari))
 
