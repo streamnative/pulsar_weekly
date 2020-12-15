@@ -50,7 +50,7 @@ This is the Pulsar community weekly update for 2020-12-05 ~ 2020-12-11, with upd
 
     https://github.com/apache/pulsar/pull/8764 ([@zymap](https://github.com/zymap))
 
-- [Broker] Change method `getWebServiceUrl` into async.
+- [Broker] Change the `getWebServiceUrl` method into async.
 
     https://github.com/apache/pulsar/pull/8746 ([@reswqa](https://github.com/reswqa))
     
@@ -74,7 +74,7 @@ This is the Pulsar community weekly update for 2020-12-05 ~ 2020-12-11, with upd
 
     https://github.com/apache/pulsar/pull/8808 ([@wolfstudy](https://github.com/wolfstudy))
 
-- [Function] Add the command flag of `--retain-key-ordering` to Pulsar Functions .
+- [Function] Add the command flag of `--retain-key-ordering` to Pulsar Functions.
 
     https://github.com/apache/pulsar/pull/8886 ([@wolfstudy](https://github.com/wolfstudy))
 
@@ -108,7 +108,7 @@ This is the Pulsar community weekly update for 2020-12-05 ~ 2020-12-11, with upd
 
     https://github.com/apache/pulsar/pull/8877 ([@massakam](https://github.com/massakam))
     
-- [Broker] Fix the issue of failing to get the `lastMessageId` for an empty topic due to message retention.
+- [Broker] Fix the issue that the `lastMessageId` is failed to be gotten for an empty topic due to message retention.
 
     https://github.com/apache/pulsar/pull/8725 ([@eolivelli](https://github.com/eolivelli))
     
