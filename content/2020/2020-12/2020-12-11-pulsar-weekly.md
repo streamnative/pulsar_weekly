@@ -108,7 +108,7 @@ This is the Pulsar community weekly update for 2020-12-05 ~ 2020-12-11, with upd
 
     https://github.com/apache/pulsar/pull/8877 ([@massakam](https://github.com/massakam))
     
-- [Broker] Fix the issue that the `lastMessageId` is failed to be gotten for an empty topic due to message retention.
+- [Broker] Fix the issue that an empty topic fails to get `lastMessageId` due to message retention.
 
     https://github.com/apache/pulsar/pull/8725 ([@eolivelli](https://github.com/eolivelli))
     
