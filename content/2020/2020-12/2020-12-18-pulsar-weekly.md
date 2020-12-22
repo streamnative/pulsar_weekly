@@ -2,13 +2,13 @@
 title: "2020-12-18-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2020-12-12 ~ 2020-12-18"
 date: 2020-12-12 ~ 2020-12-18
-description: "This is the Pulsar community weekly update for 2020-12-12 ~ 2020-12-18, with updates on Pulsar client, broker, Functions, and so on."
+description: "This is the Pulsar community weekly update for 2020-12-12 ~ 2020-12-18, with updates on Pulsar client, broker, Functions, schema, KoP, Pulsar IO, and so on."
 id: "2020-12-18-pulsar-weekly"
 ---
 
 ## [Pulsar Community Weekly Update] 2020-12-12 ~ 2020-12-18
 
-This is the Pulsar community weekly update for 2020-12-12 ~ 2020-12-18, with updates on Pulsar client, broker, Functions, and so on.
+This is the Pulsar community weekly update for 2020-12-12 ~ 2020-12-18, with updates on Pulsar client, broker, Functions, schema, KoP, Pulsar IO, and so on.
 
 ### Pulsar Highlight
 
@@ -131,7 +131,6 @@ This is the Pulsar community weekly update for 2020-12-12 ~ 2020-12-18, with upd
 - [Java Shade Client] Add the encryption integration test.
 
     https://github.com/apache/pulsar/pull/8850 ([@RobertIndie](https://github.com/RobertIndie))
-
 
 ### Event / News
 
