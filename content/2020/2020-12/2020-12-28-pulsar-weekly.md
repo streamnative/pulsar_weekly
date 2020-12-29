@@ -62,7 +62,7 @@ by [@aloyszhang](https://github.com/aloyszhang)
 
     https://github.com/apache/pulsar/pull/9037 ([@saosir](https://github.com/saosir))
 
-- [Broker] Introduce the continuous offset for pulsar.
+- [Broker] Introduce the continuous offset for Pulsar.
 
     https://github.com/apache/pulsar/pull/9039 ([@aloyszhang](https://github.com/aloyszhang))
 
