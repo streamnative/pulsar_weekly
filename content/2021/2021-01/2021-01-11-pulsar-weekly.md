@@ -90,7 +90,7 @@ by [@sijie](https://github.com/sijie)
 
     https://github.com/apache/pulsar/pull/9088 [@aloyszhang](https://github.com/aloyszhang)
 
-- [Broker] Fix the issue that the Pulsar broker expires one messages at a time after topics are unloaded.
+- [Broker] Fix the issue that the Pulsar broker expires one message at a time after topics are unloaded.
 
     https://github.com/apache/pulsar/pull/9083 [@eolivelli]https://github.com/eolivelli
 
