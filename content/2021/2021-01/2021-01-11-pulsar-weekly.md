@@ -52,7 +52,7 @@ by [@sijie](https://github.com/sijie)
 
 - [Broker] Fix the issue that namespace-level policies return incorrect default values if no value is given by the user.
 
-    https://github.com/apache/pulsar/pull/9149 [@315157973]https://github.com/315157973
+    https://github.com/apache/pulsar/pull/9149 [@315157973](https://github.com/315157973)
 
 - [Test] Resolve the race condition in `ManagedLedgerTest.testAsyncUpdateProperties()`.
 
@@ -60,23 +60,23 @@ by [@sijie](https://github.com/sijie)
 
 - [pulsar-admin] Set `service-url` to false because `service-url` is not required for TLS-enabled clusters.
 
-    https://github.com/apache/pulsar/pull/9127 [@dockerzhang]https://github.com/dockerzhang
+    https://github.com/apache/pulsar/pull/9127 [@dockerzhang](https://github.com/dockerzhang)
 
 - [Functions] Fix NPE in Go Functions if `BatchBuilder` is not set properly.
 
-    https://github.com/apache/pulsar/pull/9124 [@flowchartsman]https://github.com/flowchartsman
+    https://github.com/apache/pulsar/pull/9124 [@flowchartsman](https://github.com/flowchartsman)
 
 - [Broker] Fix the issue that unloading namespaces bundle are blocked because `StampedLock` is not a reentrant and the `foreach` method of the `ConcurrentOpenHashMap` also acquires read lock.
 
-    https://github.com/apache/pulsar/pull/9116 [@codelipenghui]https://github.com/codelipenghui
+    https://github.com/apache/pulsar/pull/9116 [@codelipenghui](https://github.com/codelipenghui)
 
 - [PulsarAdmin] Fix the issue that the `function-name` API returns the wrong type.
 
-    https://github.com/apache/pulsar/pull/9115 [@tuteng]https://github.com/tuteng
+    https://github.com/apache/pulsar/pull/9115 [@tuteng](https://github.com/tuteng)
 
 - [Broker] Fix NPE when `MultiTopicsConsumerImpl` receives null-value messages.
 
-    https://github.com/apache/pulsar/pull/9113 [@BewareMyPower]https://github.com/BewareMyPower
+    https://github.com/apache/pulsar/pull/9113 [@BewareMyPower](https://github.com/BewareMyPower)
 
 - [C++ Client] Fix the compilation issue caused by the non-virtual destructor.
 
@@ -92,7 +92,7 @@ by [@sijie](https://github.com/sijie)
 
 - [Broker] Fix the issue that the Pulsar broker expires one message at a time after topics are unloaded.
 
-    https://github.com/apache/pulsar/pull/9083 [@eolivelli]https://github.com/eolivelli
+    https://github.com/apache/pulsar/pull/9083 [@eolivelli](https://github.com/eolivelli)
 
 - [C++ Client] Fix the issue that the consumer sends `redeliverMessages` repeatedly.
 
