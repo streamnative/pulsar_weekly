@@ -58,11 +58,11 @@ by ([@Renkai](https://github.com/Renkai))
 
 ### Notable Bug Fix
 
-- [Broker] Fix the issue with not skipping the broker's entry metadata when peeking the message metadata.
+- [Broker] Fix the issue that the broker's entry metadata is not skipped when peeking the message metadata.
 
     https://github.com/apache/pulsar/pull/9255 ([@codelipenghui](https://github.com/codelipenghui))
 
-- [Broker] Fix the issue with failing to automatically creating the system topic.
+- [Broker] Fix the issue that the system topic cannot be automatically created.
 
     https://github.com/apache/pulsar/pull/9272 ([@315157973](https://github.com/315157973))
 
