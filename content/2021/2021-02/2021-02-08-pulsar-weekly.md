@@ -212,6 +212,6 @@ by (@[codelipenghui](https://github.com/codelipenghui))
 
 ### Blog / Article
 
-- How to choose pulsar vs Kafka? -- Jesse Anderson
+- How to choose Pulsar vs Kafka? -- Jesse Anderson
 
     - https://developpaper.com/how-to-choose-pulsar-vs-kafka/
