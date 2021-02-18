@@ -40,7 +40,7 @@ by (@[codelipenghui](https://github.com/codelipenghui))
 
     https://github.com/apache/pulsar/pull/9232 (@[eolivelli](https://github.com/eolivelli))
 
-- [Admin] Support getting the applied policy for `MaxConsumers`.
+- [Admin] Support getting the topic-applied policy for `MaxConsumers`.
 
     https://github.com/apache/pulsar/pull/9296 (@[315157973](https://github.com/315157973))
 
@@ -96,7 +96,7 @@ by (@[codelipenghui](https://github.com/codelipenghui))
 
     https://github.com/apache/pulsar/pull/9397 (@[sijie](https://github.com/sijie))
 
-- [Admin] Ensure that the admin operations on Statestore are not blocked.
+- [Admin] Ensure that the admin operations on Statestore are non-blocking.
 
     https://github.com/apache/pulsar/pull/9348 ([@pkumar-singh](https://github.com/pkumar-singh))
 
@@ -104,15 +104,15 @@ by (@[codelipenghui](https://github.com/codelipenghui))
 
     https://github.com/apache/pulsar/pull/9498 (@[merlimat](https://github.com/merlimat))
 
-- [CLI] Update the `-cluster` parameter in t`he delete-cluster-metadata` command to `--cluster`.
+- [CLI] Update the `-cluster` parameter in the `delete-cluster-metadata` command to `--cluster`.
 
     https://github.com/apache/pulsar/pull/9487 (@[yangl](https://github.com/yangl))
 
-- [Topic Policy] Support getting the applied policy for retention.
+- [Topic Policy] Support getting the topic-applied policy for retention.
 
     https://github.com/apache/pulsar/pull/9362 (@[315157973](https://github.com/315157973))
 
-- [Topic Policy] Support getting the applied policy for the offloader.
+- [Topic Policy] Support getting the topic-applied policy for the offloader.
 
     https://github.com/apache/pulsar/pull/9505 (@[315157973](https://github.com/315157973))
 
@@ -126,7 +126,7 @@ by (@[codelipenghui](https://github.com/codelipenghui))
 
     https://github.com/apache/pulsar/pull/9375 (@[Renkai](https://github.com/Renkai))
 
-- [C++] Fix the issue that pulsar-client-java does not set `replicator_to` into messages when batching is enabled.
+- [C++] Fix the broken replication messages to the specific cluster.
 
     https://github.com/apache/pulsar/pull/9372 (@[k2la](https://github.com/k2la))
 
