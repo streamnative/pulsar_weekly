@@ -1,14 +1,14 @@
 ---
 title: "2021-02-22-pulsar-weekly"
-displayTitle: "Pulsar Community Weekly Update - 2021-02-08 ~ 2021-02-21"
-date: 2021-02-08 ~ 2021-02-21
-description: "This is the Pulsar community weekly update for 2021-02-08 ~ 2021-02-21, with updates on Pulsar client, broker, Functions, transactions, authentication, and so on."
+displayTitle: "Pulsar Community Weekly Update - 2021-02-15 ~ 2021-02-21"
+date: 2021-02-15 ~ 2021-02-21
+description: "This is the Pulsar community weekly update for 2021-02-15 ~ 2021-02-21, with updates on Pulsar client, broker, Functions, transactions, authentication, and so on."
 id: "2021-02-22-pulsar-weekly"
 ---
 
-## [Pulsar Community Weekly Update] 2021-02-08 ~ 2021-02-21
+## [Pulsar Community Weekly Update] 2021-02-15 ~ 2021-02-21
 
-This is the Pulsar community weekly update for 2021-02-08 ~ 2021-02-28, with updates on Pulsar client, broker, Functions, transactions, authentication, and so on.
+This is the Pulsar community weekly update for 2021-02-15 ~ 2021-02-21, with updates on Pulsar client, broker, Functions, transactions, authentication, and so on.
 
 ### Pulsar Highlight
 
