@@ -12,173 +12,165 @@ This is the Pulsar community weekly update for 2021-02-15 ~ 2021-02-21, with upd
 
 ### Pulsar Highlight
 
-Support handling messages with multiple listener threads for the Key_Shared subscription. Currently, a consumer is pinged to a given listener thread to ensure that the message is processed orderly for a topic. But for the Key_Shared subscription, the message process order is based on the message key, not the order of the topic. Therefore, we create a feature to support handling messages with multiple listener threads for the Key_Shared subscription to ensure the order of the message key.
+Pulsar does not need to run as the root user. Therefore, Pulsar and the Pulsar dashboard images are updated to run as a new Pulsar user (User 1000 10000 and Group 10001). This change increases the security of Pulsar images.
 
-by (@[codelipenghui](https://github.com/codelipenghui))
+by ([michaeljmarshall](https://github.com/michaeljmarshall))
 
 ### Notable Feature
 
-- [Client] Support handling messages with multiple listener threads for the Key_Shared subscription.
+- [Broker] Authorization service uses the metadata-store API.
 
-    https://github.com/apache/pulsar/pull/9329 (@[codelipenghui](https://github.com/codelipenghui))
+    https://github.com/apache/pulsar/pull/9586 (@[rdhabalia](https://github.com/rdhabalia))
 
-- [Build] Build Pulsar with unix lineEnding in Windows.
+- [Flaky Test] Pass "alwaysRun = true" to all TestNG @After* annotations Consistently.
 
-    https://github.com/apache/pulsar/pull/9536 (@[wangjialing218](https://github.com/wangjialing218))
+    https://github.com/apache/pulsar/pull/9635 (@[lhotari](https://github.com/lhotari))
 
-- [Build] Support building Pulsar with JDK11 and `-Dmaven.compiler.release=8`.
+- [Build] Add `-parameters` flag in javac.
 
-    https://github.com/apache/pulsar/pull/9580 (@[eolivelli](https://github.com/eolivelli))
+    https://github.com/apache/pulsar/pull/9624 (@[Renkai](https://github.com/Renkai))
 
-- [C++] Support disabling static or dynamic libraries at the build time.
+- [Transaction] Enable SpotBugs in the pulsar-transaction module.
 
-    https://github.com/apache/pulsar/pull/9570 (@[merlimat](https://github.com/merlimat))
+    https://github.com/apache/pulsar/pull/9620 (@[congbobo184](https://github.com/congbobo184))
 
-- [C++] Account for different variables names on different CMake versions.
+- [Broker] Support enabling subscription types.
 
-    https://github.com/apache/pulsar/pull/9559 (@[merlimat](https://github.com/merlimat))
+    https://github.com/apache/pulsar/pull/9401 (@[congbobo184](https://github.com/congbobo184))
 
-- [C++] Add detail logs for schema related messages.
+- [Python] Support end-to-end encryption.
 
-    https://github.com/apache/pulsar/pull/9544 (@[BewareMyPower](https://github.com/BewareMyPower))
+    https://github.com/apache/pulsar/pull/9588 (@[tuteng](https://github.com/tuteng))
 
-- [CLI] Add the command used for listing bookies for pulsar-admin CLI tool.
+- [CLI] pulsar-client CLI tool supports end-to-end encryption.
 
-    https://github.com/apache/pulsar/pull/9283 (@[eolivelli](https://github.com/eolivelli))
+    https://github.com/apache/pulsar/pull/9615 (@[massakam](https://github.com/massakam))
 
-- [C++] Remove usages of `boost::regex`.
+- [Broker] Topic resources use the metadata-store API.
 
-    https://github.com/apache/pulsar/pull/9533 (@[merlimat](https://github.com/merlimat))
+    https://github.com/apache/pulsar/pull/9485 (@[rdhabalia](https://github.com/rdhabalia))
 
-- [CLI] Expire messages by the position.
+- [Pulsar Admin] Expose schema ledger in `topic stats-internal`.
 
-    https://github.com/apache/pulsar/pull/9514 (@[MarvinCai](https://github.com/MarvinCai))
+    https://github.com/apache/pulsar/pull/9284 (@[congbobo184](https://github.com/congbobo184))
 
-- [Broker] Asynchronously read entries with the maximum size bytes.
+- [Function] Enable Function Workers to use the exclusive producer to write messages to internal topics.
 
-    https://github.com/apache/pulsar/pull/9532 (@[gaoran10](https://github.com/gaoran10))
+    https://github.com/apache/pulsar/pull/9275 (@[jerrypeng](https://github.com/jerrypeng))
 
-- [Broker] Disallow parsing token without signature in `authenticateToken`.
+- [Metrics] Add producer metrics for Prometheus.
 
-    https://github.com/apache/pulsar/pull/9172 (@[nodece](https://github.com/nodece))
+    https://github.com/apache/pulsar/pull/9541 (@[wangjialing218](https://github.com/wangjialing218))
 
-- [Function] Add `downloadDirectory` support to Kubernetes runtime.
+- [Function] The Kubernetes runtime functions creates REC1123-compliant labels.
 
-    https://github.com/apache/pulsar/pull/9377 (@[freeznet](https://github.com/freeznet))
+    https://github.com/apache/pulsar/pull/9556 (@[jdbeck](https://github.com/jdbeck))
 
-- [Broker] ENsure that the subscription starts from `MessageId.latest` by default.
+- [Build] Update the Docker file for Pulsar and Dashboard to create and use the Pulsar user (non-root user).
 
-    https://github.com/apache/pulsar/pull/9444 (@[aloyszhang](https://github.com/aloyszhang))
+    https://github.com/apache/pulsar/pull/8796 (@[michaeljmarshall](https://github.com/michaeljmarshall))
 
-- [CI] Replace the `diff-only` action with the usage of `paths-ignore`.
+- [Function] Set the maximum allowed amount of resources for Pulsar Functions.
 
-    https://github.com/apache/pulsar/pull/9527 (@[lhotari](https://github.com/lhotari))
+    https://github.com/apache/pulsar/pull/9584 (@[fantapsody](https://github.com/fantapsody))
 
-- [Function/IO] Optimize built-in source/sink startup.
+- [C++] Make pool connections configurable in pulsar-perf CLI tool.
 
-    https://github.com/apache/pulsar/pull/9500 (@[jerrypeng](https://github.com/jerrypeng))
+    https://github.com/apache/pulsar/pull/8913 (@[ltamber](https://github.com/ltamber))
 
-- [Broker] Ignore `.replicateSubscriptionState(true)` setting When replicated subscription is disabled by Pulsar broker.
+- [Pulsar-IO] Add option for `auto.offset.reset` to the Kafka Source connector.
 
-    https://github.com/apache/pulsar/pull/9523 (@[k2la](https://github.com/k2la))
+    https://github.com/apache/pulsar/pull/9482 (@[sbourkeostk](https://github.com/sbourkeostk))
 
-- [Broker] Namespace resources use the metadata-store API.
+- [CLI] Add user-friendly comments for the topic compactor tool.
 
-    https://github.com/apache/pulsar/pull/9351 (@[rdhabalia](https://github.com/rdhabalia))
-
-- [TestClient] Add `--batch-index-ack` for the pulsar-perf CLI tool.
-
-    https://github.com/apache/pulsar/pull/9521 (@[limingnihao](https://github.com/limingnihao))
-
-- [Broker] Add subscription backlog size information for `topicstats`.
-
-    https://github.com/apache/pulsar/pull/9302 (@[MarvinCai](https://github.com/MarvinCai))
-
-- [Pulsar Common] Add user-friendly error hint to tell users the expected namespace format when getting errors in the namespace parse.
-
-    https://github.com/apache/pulsar/pull/9510 (@[Renkai](https://github.com/Renkai))
+    https://github.com/apache/pulsar/pull/9563 (@[WJL3333](https://github.com/WJL3333))
 
 ### Notable Bug Fix
 
-- [Functions] Close `InputStreams` properly.
+- [Client] Fix `hasMessageAvailable()` with the empty topic.
 
-    https://github.com/apache/pulsar/pull/9568 (@[lhotari](https://github.com/lhotari))
+    https://github.com/apache/pulsar/pull/9652 (@[jerrypeng](https://github.com/jerrypeng))
 
-- [Flaky Test] Fix the flaky test `BrokerServiceLookupTest.testModularLoadManagerSplitBundle`.
+- [Build] Remove `pom.xml` file from pulsar-functions-worker-shaded which is no longer used.
 
-    https://github.com/apache/pulsar/pull/9577 (@[lhotari](https://github.com/lhotari))
+    https://github.com/apache/pulsar/pull/9637 (@[lhotari](https://github.com/lhotari))
 
-- [Docker] Fix incorrect URL in README for docker-compose.
+- [Broker] Remove `global-zk` reference from Pulsar-service.
 
-    https://github.com/apache/pulsar/pull/9573 (@[aahmed-se](https://github.com/aahmed-se))
+    https://github.com/apache/pulsar/pull/9648 (@[rdhabalia](https://github.com/rdhabalia))
 
-- [Build] Add missing Python 3.9 paths in `CmakeLists.txt`.
+- [Client] Fix writing/encoding of `GenericJsonRecord`.
 
-    https://github.com/apache/pulsar/pull/9574 (@[aahmed-se](https://github.com/aahmed-se))
+    https://github.com/apache/pulsar/pull/9608 (@[lhotari](https://github.com/lhotari))
 
-- [Python] Initialize Python 3.9 client wheel build.
+- [Bookie] Fallback to `PULSAR_GC` if `BOOKIE_GC` is not defined.
 
-    https://github.com/apache/pulsar/pull/9389 (@[vkvm](https://github.com/vkvm))
+    https://github.com/apache/pulsar/pull/9621 (@[lhotari](https://github.com/lhotari))
 
-- [Python] Fix nested `Map` or `Array` in schema that doesn't work.
+- [Build] Reduce the `pulsar-test-latest-version` docker image size.
 
-    https://github.com/apache/pulsar/pull/9548 (@[BewareMyPower](https://github.com/BewareMyPower))
+    https://github.com/apache/pulsar/pull/9627 (@[lhotari](https://github.com/lhotari))
 
-- [Client] Fix a couple of bugs in the exclusive producer.
+- [Flaky Test] Fix the Bookie's `dbStorage_*CacheMaxSizeMb` setting in `pulsar-test-latest-version` docker image.
 
-    https://github.com/apache/pulsar/pull/9554 (@[jerrypeng](https://github.com/jerrypeng))
+    https://github.com/apache/pulsar/pull/9623 (@[lhotari](https://github.com/lhotari))
 
-- [C++] Add the `encrypted` option in `commands.newproducer()`.
+- [Broker] Fix the timeout operation when the `wait-for-exclusive` producer is handled incorrectly.
 
-    https://github.com/apache/pulsar/pull/9542 (@[wineway](https://github.com/wineway))
+    https://github.com/apache/pulsar/pull/9600 (@[merlimat](https://github.com/merlimat))
 
-- [Client] Make the DLQ process asynchronous.
+- [Client] Add `BouncyCastleProvider` as the security provider to prevent NPE.
 
-    https://github.com/apache/pulsar/pull/9552 (@[codelipenghui](https://github.com/codelipenghui))
+    https://github.com/apache/pulsar/pull/9601 (@[massakam](https://github.com/massakam))
 
-- [FlakyTest] Fix `testBrokerSelectionForAntiAffinityGroup` by increasing `OverloadedThreshold`.
+- [Build] Fix expired TLS certificates for C++ tests.
 
-    https://github.com/apache/pulsar/pull/9393 (@[michaeljmarshall](https://github.com/michaeljmarshall))
+    https://github.com/apache/pulsar/pull/9607 (@[sijie](https://github.com/sijie))
 
-- [Functions] Call the corresponding restart according to the component type.
+- [Broker] Fix NPE that occurs in `PersistentStickyKeyDispatcherMultipleConsumers` when debug log is enabled.
 
-    https://github.com/apache/pulsar/pull/9519 (@[xche](https://github.com/xche))
+    https://github.com/apache/pulsar/pull/9587 (@[massakam](https://github.com/massakam))
 
-- [Function] Fix the issue that reading metrics is always stuck in some cases.
+- [Broker] Only log `auth _errors_ ` at the error level.
 
-    https://github.com/apache/pulsar/pull/9538 (@[315157973](https://github.com/315157973))
+    https://github.com/apache/pulsar/pull/9325 (@[ivankelly](https://github.com/ivankelly))
 
-- [CI] CI Builds for WebSite and Mac OS write too much log ( due to missing the `-B` option).
+- [Admin] Fix the NPE that occurs when getting messages by the ID while the message is null.
 
-    https://github.com/apache/pulsar/pull/9539 (@[eolivelli](https://github.com/eolivelli))
+    https://github.com/apache/pulsar/pull/9537 (@[315157973](https://github.com/315157973))
 
-- [Function] Fix possible deadlock on broker-function service startup.
+- [Admin CLI] Inform users when the request for expiring messages is not executed.
 
-    https://github.com/apache/pulsar/pull/9499 (@[rdhabalia](https://github.com/rdhabalia))
+    https://github.com/apache/pulsar/pull/9561 (@[MarvinCai](https://github.com/MarvinCai))
 
-- [Broker] Fix the metric data of `msgDelayed` for partitioned topics.
+- [Build] Disable looking up snapshot versions in public repositories.
 
-    https://github.com/apache/pulsar/pull/9529 (@[limingnihao](https://github.com/limingnihao))
+    https://github.com/apache/pulsar/pull/9336 (@[lhotari](https://github.com/lhotari))
 
-- [C++] Remove namespace check from `MultiTopicsConsumerImpl`.
+- [Python] Match BookKeeper's `grpcio` requirement.
 
-    https://github.com/apache/pulsar/pull/9520 (@[BewareMyPower](https://github.com/BewareMyPower))
+    https://github.com/apache/pulsar/pull/9569 (@[jbellis](https://github.com/jbellis))
 
-- [TestClient] Fix logic in `ManagedLedgerWriter` when configuring `threadNum >= ledgerNum`.
+- [Broker] Fix the race condition in `BrokerService` topic cache.
 
-    https://github.com/apache/pulsar/pull/9497 (@[WJL3333](https://github.com/WJL3333))
+    https://github.com/apache/pulsar/pull/9565 (@[lhotari](https://github.com/lhotari))
 
-- [Broker] Fix the issue that when creating partition for an exist topic `RestException` is not thrown.
+- [Client] Clean up consumers on multi-topic subscribe failure.
 
-    https://github.com/apache/pulsar/pull/9342 (@[BewareMyPower](https://github.com/BewareMyPower))
+    https://github.com/apache/pulsar/pull/9419 (@[addisonj](https://github.com/addisonj))
 
-- [CLI] Avoid duplicated options.
+- [FlakyTest] Fix NPEs in test cleanup methods.
 
-    https://github.com/apache/pulsar/pull/9469 (@[Renkai](https://github.com/Renkai))
+    https://github.com/apache/pulsar/pull/9442 (@[Wzhipeng](https://github.com/Wzhipeng))
 
-- [CI] Fix duplicated canceling workflow runs.
+- [FlakyTest] Fix failed `LoadReportNetworkLimit` test.
 
-    https://github.com/apache/pulsar/pull/9503 (@[potiuk](https://github.com/potiuk))
+    https://github.com/apache/pulsar/pull/9581 (@[lhotari](https://github.com/lhotari))
+
+- [Build] Avoid introducing BookKeeper-common into the pulsar-common.
+
+    https://github.com/apache/pulsar/pull/9551 (@[zymap](https://github.com/zymap))
 
 ### Event / News
 
@@ -188,6 +180,6 @@ by (@[codelipenghui](https://github.com/codelipenghui))
 
 ### Blog / Article
 
-- Migrate to Serverless with Pulsar Functions
+- StreamNative's 2020 Year in Review
 
-    - https://streamnative.io/en/blog/tech/2021-02-10-migrate-to-serverless-with-pulsar-functions
+    - https://streamnative.io/en/blog/community/2021-02-16-streamnative-2020-year-in-review
