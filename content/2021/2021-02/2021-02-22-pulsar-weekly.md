@@ -22,7 +22,7 @@ by ([michaeljmarshall](https://github.com/michaeljmarshall))
 
     https://github.com/apache/pulsar/pull/9586 (@[rdhabalia](https://github.com/rdhabalia))
 
-- [Flaky Test] Pass "alwaysRun = true" to all TestNG @After* annotations Consistently.
+- [Flaky Test] Pass "alwaysRun = true" to all TestNG @After* annotations consistently.
 
     https://github.com/apache/pulsar/pull/9635 (@[lhotari](https://github.com/lhotari))
 
@@ -132,7 +132,7 @@ by ([michaeljmarshall](https://github.com/michaeljmarshall))
 
     https://github.com/apache/pulsar/pull/9587 (@[massakam](https://github.com/massakam))
 
-- [Broker] Only log `auth _errors_ ` at the error level.
+- [Broker] Only log `auth _errors_` at the error level.
 
     https://github.com/apache/pulsar/pull/9325 (@[ivankelly](https://github.com/ivankelly))
 
@@ -177,6 +177,10 @@ by ([michaeljmarshall](https://github.com/michaeljmarshall))
 - [TGIP] Weekly live stream about Pulsar and its ecosystem.
 
   - All video recordings are available at [here](https://streamnative.io/resource#tgip).
+
+- [Pulsar Office Hour] Monthly live stream about Pulsar best practices, use cases, and more.
+
+  - 02/17: https://www.youtube.com/watch?v=Xh94uDE1pg4
 
 ### Blog / Article
 
