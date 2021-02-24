@@ -168,7 +168,7 @@ by (@[codelipenghui](https://github.com/codelipenghui))
 
     https://github.com/apache/pulsar/pull/9497 (@[WJL3333](https://github.com/WJL3333))
 
-- [Broker] Fix the issue that when creating partition for an exist topic `RestException` is not thrown.
+- [Broker] Fix the `RestException` exception that is thrown  when creating partitions for an existing topic.
 
     https://github.com/apache/pulsar/pull/9342 (@[BewareMyPower](https://github.com/BewareMyPower))
 
