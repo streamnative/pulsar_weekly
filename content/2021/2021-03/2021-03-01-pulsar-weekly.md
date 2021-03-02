@@ -16,7 +16,7 @@ This is the Pulsar community weekly update for 2021-02-22 ~ 2021-02-28, with upd
 
     https://github.com/apache/pulsar/pull/9339 ([@315157973](https://github.com/315157973))
 
-- [Client] Make function dependencies as optional components for Pulsar Python client.
+- [Client] Make function dependencies as optional components for the Pulsar Python client.
 
     https://github.com/apache/pulsar/pull/9719 ([@aahmed-se](https://github.com/aahmed-se))
 
