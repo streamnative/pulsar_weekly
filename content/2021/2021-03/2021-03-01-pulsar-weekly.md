@@ -62,7 +62,7 @@ This is the Pulsar community weekly update for 2021-02-22 ~ 2021-02-28, with upd
 
     https://github.com/apache/pulsar/pull/8566 ([@MaiCw4J](https://github.com/MaiCw4J))
 
-- [[Broker] Fix the issue that automatic topic compaction is never triggered if no durable subscriptions is found.
+- [[Broker] Fix the issue that automatic topic compaction is never triggered if no durable subscriptions are found.
 
     https://github.com/apache/pulsar/pull/8204 ([@fmiguelez](https://github.com/fmiguelez))
 
