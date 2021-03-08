@@ -124,7 +124,7 @@ This is the Pulsar community weekly update for 2021-03-01 ~ 2021-03-07, with upd
 
   https://github.com/apache/pulsar/pull/9781 ([@315157973](https://github.com/315157973))
 
-- [Broker] Fix the issue that the topic ownership is not checked when get topic-applied policies (master branch).
+- [Broker] Fix the issue that the topic ownership is not checked when getting topic-applied policies (master branch).
 
   https://github.com/apache/pulsar/pull/9767 ([@315157973](https://github.com/315157973))
   
