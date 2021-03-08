@@ -38,7 +38,7 @@ This is the Pulsar community weekly update for 2021-03-01 ~ 2021-03-07, with upd
 
   https://github.com/apache/pulsar/pull/9827 ([@315157973](https://github.com/315157973))
   
-- [CI] Before retrying or proceeding to next methods, clean up the test state after a failure.
+- [CI] Before retrying or proceeding to the next methods, clean up the test state after a failure.
 
   https://github.com/apache/pulsar/pull/9823 ([@lhotari](https://github.com/lhotari))
 
