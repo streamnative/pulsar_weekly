@@ -46,7 +46,7 @@ This is the Pulsar community weekly update for 2021-03-01 ~ 2021-03-07, with upd
 
   https://github.com/apache/pulsar/pull/9816 ([@zymap](https://github.com/zymap))
 
-- [CI] Add apache-rat check in CI test.
+- [CI] Add apache-rat check-in CI test.
 
   https://github.com/apache/pulsar/pull/9815 ([@zymap](https://github.com/zymap))
   
