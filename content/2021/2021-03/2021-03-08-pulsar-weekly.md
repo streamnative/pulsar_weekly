@@ -120,7 +120,7 @@ This is the Pulsar community weekly update for 2021-03-01 ~ 2021-03-07, with upd
 
   https://github.com/apache/pulsar/pull/9798 ([@zymap](https://github.com/zymap))
 
-- [Broker] Fix the issue that the topic ownership is not checked when get topic-applied policies (branch 2.7).
+- [Broker] Fix the issue that the topic ownership is not checked when getting topic-applied policies (branch 2.7).
 
   https://github.com/apache/pulsar/pull/9781 ([@315157973](https://github.com/315157973))
 
