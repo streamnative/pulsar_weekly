@@ -16,7 +16,7 @@ This is the Pulsar community weekly update for 2021-03-01 ~ 2021-03-07, with upd
 
   https://github.com/apache/pulsar/pull/9814 ([@linlinnn](https://github.com/linlinnn))
   
-- [Transactions] Handle TC low water mark on pending ack handle.
+- [Transactions] Handle TC low watermark on pending ack handle.
 
   https://github.com/apache/pulsar/pull/9722 ([@congbobo184](https://github.com/congbobo184))
 
