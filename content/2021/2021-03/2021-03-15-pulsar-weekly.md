@@ -88,7 +88,7 @@ by ([@gaoran10](https://github.com/gaoran10))
 
     https://github.com/apache/pulsar/pull/9614 ([@eolivelli](https://github.com/eolivelli))
 
-- [Client] Ensure the single-topic consumer can be closed.
+- [Client] Ensure that the single-topic consumer can be closed.
 
     https://github.com/apache/pulsar/pull/9849 ([@HugeSkull](https://github.com/HugeSkull))
 
