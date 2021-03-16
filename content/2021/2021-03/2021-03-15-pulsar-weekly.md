@@ -118,7 +118,7 @@ by ([@gaoran10](https://github.com/gaoran10))
 
 ### Blog / Article
 
-- TIntroducing the Apache Pulsar Hackathon 2021
+- Introducing the Apache Pulsar Hackathon 2021
 
     - https://streamnative.io/en/blog/community/2021-03-11-introducing-the-apache-pulsar-hackathon-2021
 
