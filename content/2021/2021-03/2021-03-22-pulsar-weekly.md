@@ -73,7 +73,7 @@ by ([@rdhabalia](https://github.com/rdhabalia))
 - [Webinar] Apache Flink x Pulsar Virtual Meetup: Streaming SQL at Uber and Facebook
 
     - Day One (03/16): https://www.youtube.com/watch?v=9ojajM7Zt0M&list=PLqRma1oIkcWgVbfmE0GDUkThnv_FNui7d&index=1
-    - Day Two (03-17): https://www.youtube.com/watch?v=VcJ19mtsLNc&list=PLqRma1oIkcWgVbfmE0GDUkThnv_FNui7d&index=2
+    - Day Two (03/17): https://www.youtube.com/watch?v=VcJ19mtsLNc&list=PLqRma1oIkcWgVbfmE0GDUkThnv_FNui7d&index=2
 
 - [TGIP] Weekly live stream about Pulsar and its ecosystem.
 
