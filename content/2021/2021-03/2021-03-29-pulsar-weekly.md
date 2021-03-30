@@ -107,3 +107,11 @@ This is the Pulsar community weekly update for 2021-03-22 ~ 2021-03-28, with upd
 - [Intro to Apache Pulsar 101] Monthly live stream about Pulsar, including concepts, architecture, and design.
 
     - 03/24: https://www.youtube.com/watch?v=JzExXJYiGvY
+
+- Apache Pulsar Hackathon
+
+    Sign-up: https://www.eventbrite.com/e/apache-pulsar-hackathon-2021-tickets-143906003731
+
+- Pulsar Virtual Summit North America 2021
+
+    Sign-up: https://hopin.com/events/pulsar-summit-north-america-2021
