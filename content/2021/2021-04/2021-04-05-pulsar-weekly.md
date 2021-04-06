@@ -78,7 +78,7 @@ by ([@sijie](https://github.com/sijie))
     
     https://github.com/apache/pulsar/pull/8497 ([@hrsakai](https://github.com/hrsakai))
 
-- [Functions] Fix the issue that Overriding `jobName` in Kubernetes runtime with custom runtime options may cause collisions when the same `jobName` is used.  
+- [Functions] Fix the issue that overriding `jobName` in Kubernetes runtime with custom runtime options may cause collisions when the same `jobName` is used.  
     
     https://github.com/apache/pulsar/pull/8508 ([@jdbeck](https://github.com/jdbeck))
 
