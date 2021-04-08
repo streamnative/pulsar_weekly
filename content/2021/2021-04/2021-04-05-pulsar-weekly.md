@@ -10,87 +10,59 @@ id: "2021-04-05-pulsar-weekly"
 
 This is the Pulsar community weekly update for 2021-03-29 ~ 2021-04-04, with updates on Pulsar client, broker, transactions, and so on.
 
-### Pulsar Highlight
-
-Introduce the Pulsar Interface Taxonomy to guide developers and users to use Pulsar APIs.
-
-by ([@sijie](https://github.com/sijie))
-
 ### Development
 
-- [Transactions] Implement transaction pending-ack server patch.
+- [Broker] Fix the `NonDurableCursorImpl#initialPosition` issue that is caused when the `startMessageId` is greater than `lastConfirmedEntry`.
 
-    https://github.com/apache/pulsar/pull/8426 ([@congbobo184](https://github.com/congbobo184))
+    https://github.com/apache/pulsar/pull/10095([@congbobo184](https://github.com/congbobo184))
 
-- [Transactions] Register the transaction metadata before sending or acknowledging messages.
-    
-    https://github.com/apache/pulsar/pull/8493 ([@gaoran10](https://github.com/gaoran10))
+- [C++ client] Reduce the level of the `ack-grouping` tracker logs.
 
-- [Transactions] Expose the transaction interface.
-    
-    https://github.com/apache/pulsar/pull/8505 ([@congbobo184](https://github.com/congbobo184))
+    https://github.com/apache/pulsar/pull/10094([@BewareMyPower](https://github.com/BewareMyPower))
 
-- [Broker] Expose consumer names after the `mark-delete-position` for the Key_Shared subscription.
-    
-    https://github.com/apache/pulsar/pull/8545 ([@codelipenghui](https://github.com/codelipenghui))
+- [Broker] Fix `KeyValue` encoding issue of `AutoConsumeSchema`.
 
-- [Transaction] Ensure that the transaction metadata handlers are connected.
-    
-    https://github.com/apache/pulsar/pull/8563 ([@gaoran10](https://github.com/gaoran10))
+    https://github.com/apache/pulsar/pull/10089([@vroyer](https://github.com/vroyer))
 
-- [Bookie] Add the bookie client quarantine ratio configuration for bookie client 4.11.1.
-    
-    https://github.com/apache/pulsar/pull/8546 ([@hangc0276](https://github.com/hangc0276))
+- [Broker] Optimize `CompletableFuture` timeout handling.
 
-- [Broker] Improve the function state workflow with timeouts.
-    
-    https://github.com/apache/pulsar/pull/8528 ([@jerrypeng](https://github.com/jerrypeng)) 
+    https://github.com/apache/pulsar/pull/10065([@lhotari](https://github.com/lhotari))
+
+- [Broker] Change the level of the `police cache not init` logs.
+
+    https://github.com/apache/pulsar/pull/10059([@hangc0276](https://github.com/hangc0276))
+
+- [Tiered Storage] Restore Offloader directory Overriding to prevent Class Loader Leak.
+
+    https://github.com/apache/pulsar/pull/9878([@michaeljmarshall](https://github.com/michaeljmarshall))
 
 ### Notable Feature
 
-- [Broker] Support taking de-duplication snapshots based on time.
-    
-    https://github.com/apache/pulsar/pull/8474 ([@315157973](https://github.com/315157973))
+- [Broker] Add the new `Optional<Object> Schema#getNativeSchema` method.
 
-- [Broker] Support the namespace-level duplication snapshot.
-    
-    https://github.com/apache/pulsar/pull/8506 ([@315157973](https://github.com/315157973))
-
-- [Broker] Introduce the Pulsar Interface Taxonomy to guide developers and users to use Pulsar APIs.
-    
-    https://github.com/apache/pulsar/pull/8530 ([@sijie](https://github.com/sijie))
+    https://github.com/apache/pulsar/pull/10076 ([@eolivelli](https://github.com/eolivelli))
 
 ### Notable Bug Fix
 
-- [Broker] Fix the issue that is caused by cleaning inactive partitioned topics.
-    
-    https://github.com/apache/pulsar/pull/8442 ([@315157973](https://github.com/315157973))
+- [Broker] Fix the issue that the `MaxConsumersPerSubscriptionn` can not be disabled and removed.
 
-- [C++] Catch the exception thrown by the remote endpoint.
-    
-    https://github.com/apache/pulsar/pull/8486 ([@BewareMyPower](https://github.com/BewareMyPower))
+    https://github.com/apache/pulsar/pull/10070 ([@315157973](https://github.com/315157973))
 
-- [Transactions] Fix the `TransactionBufferHandlerImpl` thread leak in tests.
-    
-    https://github.com/apache/pulsar/pull/8488 ([@eolivelli](https://github.com/eolivelli))
+- [Client] Use a common request timeout handling for lookup requests to fix the possible memory leak.
 
-- [Broker] Cancel the producer's `sendtimeout` task after failing to create the producer.
-    
-    https://github.com/apache/pulsar/pull/8497 ([@hrsakai](https://github.com/hrsakai))
+    https://github.com/apache/pulsar/pull/10066 ([@lhotari](https://github.com/lhotari))
 
-- [Functions] Fix the issue that overriding `jobName` in Kubernetes runtime with custom runtime options may cause collisions when the same `jobName` is used.  
-    
-    https://github.com/apache/pulsar/pull/8508 ([@jdbeck](https://github.com/jdbeck))
+- [Client] Remove unnecessary locks from `ConsumerImpl`.
 
-### Ecosystem
+    https://github.com/apache/pulsar/pull/9261 ([@hangc0276](https://github.com/hangc0276))
 
-- [Broker] Delete Pulsar adapters.
+- [Client] Fix the bug that the `brokerTimestamp` is set improperly.
 
-    https://github.com/apache/pulsar/pull/8480 ([@sijie](https://github.com/sijie))
+    https://github.com/apache/pulsar/pull/9493 ([@hangc0276](https://github.com/hangc0276))
 
-- [AdminCli] Support examining specific messages by position which is related to the earliest or the latest message.
-    
-    https://github.com/apache/pulsar/pull/8494 ([@MarvinCai](https://github.com/MarvinCai))
+- [Client] Allow Pulsar client to receive the external timer.
+
+    https://github.com/apache/pulsar/pull/9802 ([@linlinnn](https://github.com/linlinnn))
 
 ### Event / News
 
