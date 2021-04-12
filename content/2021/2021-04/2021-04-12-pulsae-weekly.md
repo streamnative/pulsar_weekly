@@ -78,7 +78,7 @@ by (@[eolivelli](https://github.com/eolivelli))
 
     https://github.com/apache/pulsar/pull/10131 (@[congbobo184](https://github.com/congbobo184))
 
-- [Broker] Fix the the issue that the consumer is blocked after receiving retry messages many times if the consumer enables the retry feature and sets the retry topic in `DeadLetterPolicy`.
+- [Broker] Fix the issue that the consumer is blocked after receiving retry messages many times if the consumer enables the retry feature and sets the retry topic in `DeadLetterPolicy`.
 
     https://github.com/apache/pulsar/pull/10078 (@[gaoran10](https://github.com/gaoran10))
 
