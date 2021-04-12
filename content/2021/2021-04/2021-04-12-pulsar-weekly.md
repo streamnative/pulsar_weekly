@@ -115,9 +115,3 @@ by (@[eolivelli](https://github.com/eolivelli))
 - Pulsar Virtual Summit North America 2021
 
     Sign-up: https://hopin.com/events/pulsar-summit-north-america-2021
-
-### Blog / Article
-
-- Function Mesh Now Available for Pulsar Functions
-
-    - https://streamnative.io/en/blog/release/2021-04-05-function-mesh-now-available-for-pulsar-functions
