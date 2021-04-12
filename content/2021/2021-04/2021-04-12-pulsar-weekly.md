@@ -32,7 +32,7 @@ by (@[eolivelli](https://github.com/eolivelli))
 
     https://github.com/apache/pulsar/pull/10145 (@[merlimat](https://github.com/merlimat))
 
-- [Functions] Expose Prometheus metrics for Pulsar functions in the local-run mode.
+- [Functions] Expose Prometheus metrics for Pulsar functions in the local run mode.
 
     https://github.com/apache/pulsar/pull/10156 (@[jerrypeng](https://github.com/jerrypeng))
 
