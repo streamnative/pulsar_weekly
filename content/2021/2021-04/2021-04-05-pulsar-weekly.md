@@ -14,27 +14,27 @@ This is the Pulsar community weekly update for 2021-03-29 ~ 2021-04-04, with upd
 
 - [Broker] Fix the `NonDurableCursorImpl#initialPosition` issue that is caused when the `startMessageId` is greater than `lastConfirmedEntry`.
 
-    https://github.com/apache/pulsar/pull/10095([@congbobo184](https://github.com/congbobo184))
+    https://github.com/apache/pulsar/pull/10095 ([@congbobo184](https://github.com/congbobo184))
 
 - [C++ client] Reduce the level of the `ack-grouping` tracker logs.
 
-    https://github.com/apache/pulsar/pull/10094([@BewareMyPower](https://github.com/BewareMyPower))
+    https://github.com/apache/pulsar/pull/10094 ([@BewareMyPower](https://github.com/BewareMyPower))
 
 - [Broker] Fix `KeyValue` encoding issue of `AutoConsumeSchema`.
 
-    https://github.com/apache/pulsar/pull/10089([@vroyer](https://github.com/vroyer))
+    https://github.com/apache/pulsar/pull/10089 ([@vroyer](https://github.com/vroyer))
 
 - [Broker] Optimize `CompletableFuture` timeout handling.
 
-    https://github.com/apache/pulsar/pull/10065([@lhotari](https://github.com/lhotari))
+    https://github.com/apache/pulsar/pull/10065 ([@lhotari](https://github.com/lhotari))
 
 - [Broker] Change the level of the `police cache not init` logs.
 
-    https://github.com/apache/pulsar/pull/10059([@hangc0276](https://github.com/hangc0276))
+    https://github.com/apache/pulsar/pull/10059 ([@hangc0276](https://github.com/hangc0276))
 
 - [Tiered Storage] Restore Offloader directory Overriding to prevent Class Loader Leak.
 
-    https://github.com/apache/pulsar/pull/9878([@michaeljmarshall](https://github.com/michaeljmarshall))
+    https://github.com/apache/pulsar/pull/9878 ([@michaeljmarshall](https://github.com/michaeljmarshall))
 
 ### Notable Feature
 
