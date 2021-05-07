@@ -80,7 +80,7 @@ This is the Pulsar community weekly update for 2021-04-26 ~ 2021-05-02, with upd
 
   https://github.com/apache/pulsar/pull/10389 ([@devinbost](https://github.com/devinbost))
   
-- [Consumer] Adjust logs for locating problem and formatting codes.
+- [Consumer] Adjust logs for locating problems and formatting codes.
 
   https://github.com/apache/pulsar/pull/10392 ([@linlinnn](https://github.com/linlinnn))
 
