@@ -126,7 +126,6 @@ This is the Pulsar community weekly update for 2021-05-03 ~ 2021-05-09, with upd
 
   https://github.com/apache/pulsar/pull/7523 ([@KannarFr](https://github.com/KannarFr))
 
-
 ### Event / News
 
 - Pulsar Virtual Summit North America 2021
