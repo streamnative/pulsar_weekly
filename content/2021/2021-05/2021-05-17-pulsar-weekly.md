@@ -12,7 +12,7 @@ This is the Pulsar community weekly update for 2021-05-10 ~ 2021-05-16, with upd
 
 ### Pulsar Highlight
 
-- [Transaction] Handle transaction pending ack persistent.
+- [Transaction] Handle transaction pending ack persistence.
   
   https://github.com/apache/pulsar/pull/8881 ([@congbobo184](https://github.com/congbobo184))
 
@@ -36,7 +36,7 @@ This is the Pulsar community weekly update for 2021-05-10 ~ 2021-05-16, with upd
   
   https://github.com/apache/pulsar/pull/7600 ([@lbenc135](https://github.com/lbenc135))
 
-- [Enhancement] The reader supports seeking messages from separate message ID or time.
+- [Enhancement] The reader supports seeking messages from the separate message ID or time.
   
   https://github.com/apache/pulsar/pull/10348 ([@315157973](https://github.com/315157973))
 
