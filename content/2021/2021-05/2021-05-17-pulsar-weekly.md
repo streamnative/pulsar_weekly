@@ -44,7 +44,7 @@ This is the Pulsar community weekly update for 2021-05-10 ~ 2021-05-16, with upd
   
   https://github.com/apache/pulsar/pull/10401 ([@MarvinCai](https://github.com/MarvinCai))
 
-- [Pulsar-IO] Use `Message.getReaderSchema()` in Pulsar sink connectors when possible.
+- [Pulsar IO] Use `Message.getReaderSchema()` in Pulsar sink connectors when possible.
   
   https://github.com/apache/pulsar/pull/10557 ([@eolivelli](https://github.com/eolivelli))
 
