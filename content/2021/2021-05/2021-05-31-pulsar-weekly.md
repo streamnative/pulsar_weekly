@@ -94,7 +94,7 @@ This is the Pulsar community weekly update for 2021-05-24 ~ 2021-05-30, with upd
 
 ### Notable Bug Fix
 
-- [Function] Use the default Kubernetes secret mount permission to allow non-root user to read the authentication token.
+- [Function] Use the default Kubernetes secret mount permission to allow non-root users to read the authentication token.
 
     https://github.com/apache/pulsar/pull/10743 ([@zzzming](https://github.com/zzzming))
 
