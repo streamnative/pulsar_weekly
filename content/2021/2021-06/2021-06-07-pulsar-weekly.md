@@ -107,3 +107,7 @@ This is the Pulsar community weekly update for 2021-05-31 ~ 2021-06-06, with upd
 - Building Connectors On Pulsar Made Simple
 
     - https://streamnative.io/en/blog/tech/2021-06-01-building-connectors-on-pulsar-made-simple
+
+- Indestructible Storage in the Cloud with Apache BookKeeper -- Anup Ghatage
+
+  - https://streamnative.io/en/blog/case/2021-06-01-indestructible-storage-in-the-cloud-with-apache-bookkeeper
