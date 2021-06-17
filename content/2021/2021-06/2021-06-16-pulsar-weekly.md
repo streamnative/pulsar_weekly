@@ -46,7 +46,7 @@ This is the Pulsar community weekly update for 2021-06-07 ~ 2021-06-13, with upd
 
 - [Client] Remove the unwanted dependencies in the Pulsar Functions' instance JARs and make `SchemaInfo` as an interface.
 
-    https://github.com/apache/pulsar/pull/10878  ([@jerrypeng](https://github.com/jerrypeng))
+    https://github.com/apache/pulsar/pull/10878 ([@jerrypeng](https://github.com/jerrypeng))
 
 ### Ecosystem
 
