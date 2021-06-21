@@ -76,7 +76,7 @@ This is the Pulsar community weekly update for 2021-06-14 ~ 2021-06-20, with upd
 
     https://github.com/apache/pulsar/pull/10957 ([@codelipenghui](https://github.com/codelipenghui))
 
-- [Build] Upgrade i`o.airlift.aircompressor` to version 19.
+- [Build] Upgrade `io.airlift.aircompressor` to version 19.
 
     https://github.com/apache/pulsar/pull/10983 ([@newur](https://github.com/newur))
 
