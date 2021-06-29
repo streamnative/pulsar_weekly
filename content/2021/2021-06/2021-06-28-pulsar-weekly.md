@@ -104,7 +104,7 @@ This is the Pulsar community weekly update for 2021-06-21 ~ 2021-06-27, with upd
 
 - [Client] Fix the `NoClassDefFoundError` that the `io.airlift.compress.lz4.UnsafeUtil` class cannot be initialized.
 
-    https://github.com/apache/pulsar/pull/10983 ([[@newur](https://github.com/newur))
+    https://github.com/apache/pulsar/pull/10983 ([@newur](https://github.com/newur))
 
 - [Functions] Include the Common-IO in the Java Function instance.
 
@@ -239,4 +239,3 @@ This is the Pulsar community weekly update for 2021-06-21 ~ 2021-06-27, with upd
 - Highlights from The Pulsar Virtual Summit North America 2021
 
     - https://streamnative.io/en/blog/community/2021-06-22-highlights-from-the-pulsar-virtual-summit-north-america-2021
-
