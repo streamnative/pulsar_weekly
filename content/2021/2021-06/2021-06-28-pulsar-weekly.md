@@ -206,7 +206,7 @@ This is the Pulsar community weekly update for 2021-06-21 ~ 2021-06-27, with upd
 
     https://github.com/apache/pulsar/pull/10792 ([@Jason918](https://github.com/Jason918))
 
-- [Build] Fix the compilation error caused by the the number of incorrect parameters.
+- [Build] Fix the compilation error caused by the number of incorrect parameters.
 
     https://github.com/apache/pulsar/pull/11104 ([@mattisonchao](https://github.com/mattisonchao))
 
