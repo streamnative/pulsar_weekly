@@ -40,7 +40,7 @@ This is the Pulsar community weekly update for 2021-07-05 ~ 2021-07-11, with upd
 
 ### Notable Bug Fix
 
-- [Client] Fix the WebScoket TLS bug.
+- [Client] Fix the WebSocket TLS bug.
 
     https://github.com/apache/pulsar/pull/11243 ([@Technoboy-](https://github.com/Technoboy-))
 
@@ -56,7 +56,7 @@ This is the Pulsar community weekly update for 2021-07-05 ~ 2021-07-11, with upd
 
     https://github.com/apache/pulsar/pull/11264 ([@Technoboy-](https://github.com/Technoboy-))
 
-- [Test] Fix the the test for Branch 2.7.
+- [Test] Fix the test for Branch 2.7.
     
     https://github.com/apache/pulsar/pull/11254 ([@congbobo184](https://github.com/congbobo184))
 
