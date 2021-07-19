@@ -40,10 +40,6 @@ This is the Pulsar community weekly update for 2021-06-28 ~ 2021-07-04, with upd
 
   https://github.com/apache/pulsar/pull/11160 ([@urfreespace](https://github.com/urfreespace))
   
-- [Broker] Add an authoritative flag for the topic-level policy to avoid the redirect loop.
-
-  https://github.com/apache/pulsar/pull/11131 ([@codelipenghui](https://github.com/codelipenghui))
-  
 - [Broker] Clear redundant codes.
 
   https://github.com/apache/pulsar/pull/11071 ([@linlinnn](https://github.com/linlinnn))
