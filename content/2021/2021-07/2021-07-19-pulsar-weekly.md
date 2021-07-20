@@ -50,7 +50,7 @@ This is the Pulsar community weekly update for 2021-07-12 ~ 2021-07-18, with upd
 
     https://github.com/apache/pulsar/pull/11283 ([aloyszhang](https://github.com/aloyszhang))
 
-- [C++] Support building a debug version of Pulsar C++ library on the Windows operation system.
+- [C++] Support building a debug version of the Pulsar C++ library on the Windows operating system.
 
     https://github.com/apache/pulsar/pull/11302 ([BewareMyPower](https://github.com/BewareMyPower))
 
