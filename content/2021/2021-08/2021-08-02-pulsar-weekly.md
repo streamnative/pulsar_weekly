@@ -21,79 +21,77 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 
 ### Pulsar Highlight
 - Broker: Add additional servlet support to broker
-<br>https://github.com/apache/pulsar/pull/11498 
-<br>by [Demogorgon314](https://github.com/Demogorgon314)
+ https://github.com/apache/pulsar/pull/11498 
+ by [Demogorgon314](https://github.com/Demogorgon314)
 
 ### Notable Feature
 
 - Broker: Add additional servlet support
-
- <br>https://github.com/apache/pulsar/pull/11498 
- <br>by [Demogorgon314](https://github.com/Demogorgon314)
+ https://github.com/apache/pulsar/pull/11498 
+ by [Demogorgon314](https://github.com/Demogorgon314)
  
 - Admin API: Add offload ledger info for admin topics stats
- <br>https://github.com/apache/pulsar/pull/11465 
- <br>by [frankxieke](https://github.com/frankxieke)
+ https://github.com/apache/pulsar/pull/11465 
+ by [frankxieke](https://github.com/frankxieke)
 
 ### Notable Bug Fix
 
 
 - [Broker] Improve error logs in BacklogQuotaManager.
- <br>https://github.com/apache/pulsar/pull/11469 
- <br>by [massakam](https://github.com/massakam)
+ https://github.com/apache/pulsar/pull/11469 
+ by [massakam](https://github.com/massakam)
 
 - [C++ Client] Fix brew error in site docs to compile C++ client.
- <br>https://github.com/apache/pulsar/pull/11512 
- <br>by [Sunny-Island](https://github.com/Sunny-Island)
+ https://github.com/apache/pulsar/pull/11512 
+ by [Sunny-Island](https://github.com/Sunny-Island)
  
 - [Broker] Check the BrokerInterceptor before de-ref-ing `newMessageAndIntercept` to avoid NPE.
- <br>https://github.com/apache/pulsar/pull/11524 
- <br>by [kaushik-develop](https://github.com/kaushik-develop)
+ https://github.com/apache/pulsar/pull/11524 
+ by [kaushik-develop](https://github.com/kaushik-develop)
  
 - [Flaky-test] Fix the issue that `testMessageExpiryWithTopicMessageTTL` test method fails.
- <br>https://github.com/apache/pulsar/pull/11516 
- <br>by [Technoboy-](https://github.com/Technoboy-)
+ https://github.com/apache/pulsar/pull/11516 
+ by [Technoboy-](https://github.com/Technoboy-)
  
 - [Schema] Fix the schema deletion when delete topic with delete schema.
- <br>https://github.com/apache/pulsar/pull/11501 
- <br>by [codelipenghui](https://github.com/codelipenghui)
+ https://github.com/apache/pulsar/pull/11501 
+ by [codelipenghui](https://github.com/codelipenghui)
  
 - [Broker] Do not create system topic for heartbeat namespace.
- <br>https://github.com/apache/pulsar/pull/11499 
- <br>by [codelipenghui](https://github.com/codelipenghui)
+ https://github.com/apache/pulsar/pull/11499 
+ by [codelipenghui](https://github.com/codelipenghui)
  
 - [Pulsar IO] Fix the issue that source stats exposes empty `latestSystemExceptions` and `latestSourceExceptions` list.
- <br>https://github.com/apache/pulsar/pull/11478 
- <br>by [freeznet](https://github.com/freeznet)
+ https://github.com/apache/pulsar/pull/11478 
+ by [freeznet](https://github.com/freeznet)
  
 - [Broker] Add backoff setting to get topic policies when topic policies cache doesn't init exception.
- <br>https://github.com/apache/pulsar/pull/11487 
- <br>by [codelipenghui](https://github.com/codelipenghui)
+ https://github.com/apache/pulsar/pull/11487 
+ by [codelipenghui](https://github.com/codelipenghui)
  
 - [Java] Deep copy the tenants to avoid concurrent access before tenants sorting.
- <br>https://github.com/apache/pulsar/pull/11463 
- <br>by [Shoothzj](https://github.com/Shoothzj)
+ https://github.com/apache/pulsar/pull/11463 
+ by [Shoothzj](https://github.com/Shoothzj)
  
 - [C++] Fix the issue that connect timer cancellation does not call timeout callback.
- <br>https://github.com/apache/pulsar/pull/11486 
- <br>by [Vanlightly](https://github.com/Vanlightly)
+ https://github.com/apache/pulsar/pull/11486 
+ by [Vanlightly](https://github.com/Vanlightly)
  
 - [C++] Add padding characters to base64 encoded protobuf native schema.
- <br>https://github.com/apache/pulsar/pull/11492 
- <br>by [BewareMyPower](https://github.com/BewareMyPower)
+ https://github.com/apache/pulsar/pull/11492 
+ by [BewareMyPower](https://github.com/BewareMyPower)
  
 - [Go Functions] Upgrade go client version to 0.6.0.
- <br>https://github.com/apache/pulsar/pull/11477 
- <br>by [wolfstudy](https://github.com/wolfstudy)
+ https://github.com/apache/pulsar/pull/11477 
+ by [wolfstudy](https://github.com/wolfstudy)
  
 - [ZooKeeper] Remove old prometheus metric provider in ZooKeeperStarter and ConfigurationStoreStarter.
- <br>https://github.com/apache/pulsar/pull/11479 
- <br>by [Technoboy-](https://github.com/Technoboy-)
+ https://github.com/apache/pulsar/pull/11479 
+ by [Technoboy-](https://github.com/Technoboy-)
  
 - [Websocket] Remove `System.out.println` from ConsumerHandler.
- <br>https://github.com/apache/pulsar/pull/11459 
- <br>by [massakam](https://github.com/massakam)
-
+ https://github.com/apache/pulsar/pull/11459 
+ by [massakam](https://github.com/massakam)
 
 ## Events / News
 
