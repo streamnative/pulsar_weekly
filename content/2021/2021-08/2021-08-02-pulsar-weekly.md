@@ -27,6 +27,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 ### Notable Feature
 
 - Broker: Add additional servlet support
+
  <br>https://github.com/apache/pulsar/pull/11498 
  <br>by [Demogorgon314](https://github.com/Demogorgon314)
  
@@ -92,6 +93,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Websocket] Remove `System.out.println` from ConsumerHandler.
  <br>https://github.com/apache/pulsar/pull/11459 
  <br>by [massakam](https://github.com/massakam)
+
 
 ## Events / News
 
