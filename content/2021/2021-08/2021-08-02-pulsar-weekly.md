@@ -25,7 +25,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br>by [Demogorgon314](https://github.com/Demogorgon314)
 
 ### Notable Feature
-
 - [Broker] Add additional servlet support.
 <br>https://github.com/apache/pulsar/pull/11498 
 <br>by [Demogorgon314](https://github.com/Demogorgon314)
@@ -35,8 +34,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br>by [frankxieke](https://github.com/frankxieke)
 
 ### Notable Bug Fix
-
-
 - [Broker] Improve error logs in BacklogQuotaManager.
 <br>https://github.com/apache/pulsar/pull/11469 
 <br>by [massakam](https://github.com/massakam)
