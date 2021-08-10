@@ -20,31 +20,27 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 ## Pulsar Updates
 
 ### Pulsar Highlight
-- Broker: Add additional servlet support to broker
+- [Broker] Add additional servlet support to broker,
 <br>https://github.com/apache/pulsar/pull/11498 
 <br>by [Demogorgon314](https://github.com/Demogorgon314)
 
 ### Notable Feature
-
-- Broker: Add additional servlet support
-
- <br>https://github.com/apache/pulsar/pull/11498 
- <br>by [Demogorgon314](https://github.com/Demogorgon314)
+- [Broker] Add additional servlet support.
+<br>https://github.com/apache/pulsar/pull/11498 
+<br>by [Demogorgon314](https://github.com/Demogorgon314)
  
-- Admin API: Add offload ledger info for admin topics stats
- <br>https://github.com/apache/pulsar/pull/11465 
- <br>by [frankxieke](https://github.com/frankxieke)
+- [Admin API] Add offload ledger info for admin topics stats,
+<br>https://github.com/apache/pulsar/pull/11465 
+<br>by [frankxieke](https://github.com/frankxieke)
 
 ### Notable Bug Fix
-
-
 - [Broker] Improve error logs in BacklogQuotaManager.
- <br>https://github.com/apache/pulsar/pull/11469 
- <br>by [massakam](https://github.com/massakam)
+<br>https://github.com/apache/pulsar/pull/11469 
+<br>by [massakam](https://github.com/massakam)
 
 - [C++ Client] Fix brew error in site docs to compile C++ client.
- <br>https://github.com/apache/pulsar/pull/11512 
- <br>by [Sunny-Island](https://github.com/Sunny-Island)
+<br>https://github.com/apache/pulsar/pull/11512 
+<br>by [Sunny-Island](https://github.com/Sunny-Island)
  
 - [Broker] Check the BrokerInterceptor before de-ref-ing `newMessageAndIntercept` to avoid NPE.
  <br>https://github.com/apache/pulsar/pull/11524 
@@ -93,7 +89,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Websocket] Remove `System.out.println` from ConsumerHandler.
  <br>https://github.com/apache/pulsar/pull/11459 
  <br>by [massakam](https://github.com/massakam)
-
 
 ## Events / News
 
