@@ -8,7 +8,7 @@ id: "2021-08-02-pulsar-weekly"
 
 # Pulsar Community Weekly Update｜ 2021-08-02 ~ 2021-08-08
 
-This is the Pulsar community weekly update for 2021-07-26 ~ 2021-08-01, with updates on Pulsar client, broker, transactions, and so on.
+This is the Pulsar community weekly update for 2021-08-02 ~ 2021-08-08, with updates on Pulsar client, broker, transactions, and so on.
 
 Great thanks to contributors of the following Github ID who helped build Pulsar during the week: [codelipenghui](https://github.com/codelipenghui), [@Sunny-Island](https://github.com/Sunny-Island), [@gaoran10](https://github.com/gaoran10), [@Demogorgon314](https://github.com/Demogorgon314), [@Technoboy-](https://github.com/Technoboy-), [@frankxieke](https://github.com/frankxieke), [@urfreespace](https://github.com/urfreespace), [@lhotari](https://github.com/lhotari), [@315157973](https://github.com/315157973), [@aloyszhang](https://github.com/aloyszhang), [@HugoPelletier](https://github.com/HugoPelletier), [@MarvinCai](https://github.com/MarvinCai), [@massakam](https://github.com/massakam), [@WJL3333](https://github.com/WJL3333), [@equanz](https://github.com/equanz), [@freeznet](https://github.com/freeznet), [congbobo184](https://github.com/congbobo184),  [goldstar611](https://github.com/goldstar611), [galrose](https://github.com/galrose),  [tuteng](https://github.com/tuteng), [wuzhanpeng](https://github.com/wuzhanpeng), [liangyepianzhou](https://github.com/liangyepianzhou)
 
