@@ -3,7 +3,7 @@ title: "2021-08-09-pulsar-weekly"
 displayTitle: "Pulsar Community Weekly Update - 2021-08-02 ~ 2021-08-08"
 date: 2021-08-02 ~ 2021-08-08
 description: "This is the Pulsar community weekly update for 2021-08-02 ~ 2021-08-08, with updates on Pulsar client, broker, transactions, and so on."
-id: "2021-08-02-pulsar-weekly"
+id: "2021-08-09-pulsar-weekly"
 ---
 
 # Pulsar Community Weekly Update｜ 2021-08-02 ~ 2021-08-08
@@ -18,8 +18,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - Github Contributors: 434
 
 ## Pulsar Updates
-
-
 
 ### Pulsar Highlight
 
