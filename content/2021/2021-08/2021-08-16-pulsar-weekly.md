@@ -31,7 +31,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br>by [kaushik-develop](https://github.com/kaushik-develop)
 
 ### Notable Feature
-- [Transaction] Fix the issue that Pulsar 2.8.0 pulsar 2.8.0 cannot be used when transaction is started in standalone mode.
+- [Transaction] Fix the issue that Pulsar 2.8.0 cannot be used when transaction is started in standalone mode.
 <br>https://github.com/apache/pulsar/pull/11494 
 <br>by [liangyepianzhou](https://github.com/liangyepianzhou)
 - [Broker] Add metrics for writing or reading size of cursor. 
@@ -57,7 +57,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Transaction] Fix transaction buffer client handle endTxn op when topic or sub are deleted. 
 <br>https://github.com/apache/pulsar/pull/11304 
 <br>by [congbobo184](https://github.com/congbobo184)
-- [Broker] Fix java.lang.NoSuchMethodError with `java.nio.ByteBuffer.position(I)Ljava/nio/ByteBuffer when enabling topic metadata compression`.
+- [Broker] Fix java.lang.NoSuchMethodError with `java.nio.ByteBuffer.position(I)Ljava/nio/ByteBuffer` when enabling topic metadata compression.
 <br>https://github.com/apache/pulsar/pull/11594 
 <br>by [codelipenghui](https://github.com/codelipenghui)
 - [Python Schema] Fix redefined `Record` or `Enum` in Python schema. 
@@ -70,7 +70,8 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br>https://github.com/apache/pulsar/pull/11607 
 <br>by [BewareMyPower](https://github.com/BewareMyPower)
 - [Broker] Fix `getPreviousPosition` NPE. 
-<br>https://github.com/apache/pulsar/pull/11621 ([gaozhangmin](https://github.com/gaozhangmin))
+<br>https://github.com/apache/pulsar/pull/11621 
+<br>by [gaozhangmin](https://github.com/gaozhangmin)
 - [Broker] Avoid redundant calls getting the offload policies from offloader. 
 <br>https://github.com/apache/pulsar/pull/11629 
 <br>by [codelipenghui](https://github.com/codelipenghui)
