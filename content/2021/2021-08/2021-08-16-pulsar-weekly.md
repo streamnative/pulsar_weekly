@@ -14,7 +14,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 [gaoran10](https://github.com/gaoran10), [hangc0276](https://github.com/hangc0276), [tspannhw](https://github.com/tspannhw), [dlg99](https://github.com/dlg99), [oversearch](https://github.com/oversearch), [freeznet](https://github.com/freeznet), [Jennifer88huang](https://github.com/Jennifer88huang), [timmyyuan](https://github.com/timmyyuan), [Anonymitaet](https://github.com/Anonymitaet), [kaushik-develop](https://github.com/kaushik-develop), [eolivelli](https://github.com/eolivelli), [vroyer](https://github.com/vroyer), [315157973](https://github.com/315157973), [gaozhangmin](https://github.com/gaozhangmin), [jerrypeng](https://github.com/jerrypeng), [BewareMyPower](https://github.com/BewareMyPower), [codelipenghui](https://github.com/codelipenghui), [lhotari](https://github.com/lhotari), [Technoboy-](https://github.com/Technoboy-), [liangyepianzhou](https://github.com/liangyepianzhou), [congbobo184](https://github.com/congbobo184)
 
 
-
 ## Pulsar Program Overview
 - Github Forks: 2.3K
 - Github Stars: 9.4K
