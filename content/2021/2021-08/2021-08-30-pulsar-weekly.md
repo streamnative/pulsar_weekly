@@ -84,7 +84,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br>by [lhotari](https://github.com/lhotari)
 
 ## Blog
-- [Scalable Stream Processing with Pulsar’s Key_Shared Subscription](https://streamnative.io/en/blog/engineering/2021-08-25-scalable-stream-processing-with-pulsars-key-shared-subscription/
+- [Scalable Stream Processing with Pulsar’s Key_Shared Subscription](https://streamnative.io/en/blog/engineering/2021-08-25-scalable-stream-processing-with-pulsars-key-shared-subscription/)
 
 ## Events / News
 - Upcoming Events
