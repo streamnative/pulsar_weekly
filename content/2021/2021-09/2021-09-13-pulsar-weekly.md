@@ -97,13 +97,9 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br>https://github.com/apache/pulsar/pull/12006 
 <br>by [michaeljmarshall](https://github.com/michaeljmarshall)
 
-- [Standalone] Fix the assignment of a custom stream-storage-port number 
+- [Standalone] Fix the assignment of a custom stream-storage-port number. 
 <br>https://github.com/apache/pulsar/pull/11995 
 <br>by [lhotari](https://github.com/lhotari)
-
-- Remove unused variable and unneccessary box in NamespaceBundleFactory 
-https://github.com/apache/pulsar/pull/11975 
-by [Shoothzj](https://github.com/Shoothzj)
 
 - [Broker] Remove unnecessary boxing. 
 <br>https://github.com/apache/pulsar/pull/11994 
