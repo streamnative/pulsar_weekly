@@ -85,7 +85,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 
 ## Blog
 - [What’s New in Apache Pulsar 2.8.1](https://streamnative.io/blog/release/2021-09-23-pulsar-281/)
-- 
+
 ## Events / News
 - Upcoming Events
     - September 30th: [Apache Pulsar Meetup Japan](https://japan-pulsar-user-group.connpass.com/event/222026/)
