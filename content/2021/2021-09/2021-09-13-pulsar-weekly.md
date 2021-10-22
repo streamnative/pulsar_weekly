@@ -89,7 +89,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br>https://github.com/apache/pulsar/pull/11906 
 <br>by [Shoothzj](https://github.com/Shoothzj)
 
-- [BookKeeper](/3PIwqftdRmer7Knitp7SxQ) Remove tiny size of deprecated Netty allocator. 
+- [BookKeeper] Remove tiny size of deprecated Netty allocator. 
 <br>https://github.com/apache/pulsar/pull/12012 
 <br>by [Shoothzj](https://github.com/Shoothzj)
 
