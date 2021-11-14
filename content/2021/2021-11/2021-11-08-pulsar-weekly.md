@@ -21,55 +21,55 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 ## Pulsar Updates
 
 ### Highlights
-- [Broker] Add negative ack redelivery backoff
+- [Broker] Add negative ACK redelivery backoff.
 <br>https://github.com/apache/pulsar/pull/12566 
 <br>by [hanmz](https://github.com/hanmz)
-- [Broker] Fix call sync method in an async callback when enabling GEO replicator
+- [Broker] Fix call sync method in an async callback when enabling GEO replicator.
 <br>https://github.com/apache/pulsar/pull/12590
 <br>by [codelipenghui](https://github.com/codelipenghui)
 
 ### Notable Features
-- [Broker] Support for setting geo-replication clusters on topic level 
+- [Broker] Support setting geo-replication clusters on topic level. 
 <br>https://github.com/apache/pulsar/pull/12136
 <br>by [Technoboy-](https://github.com/Technoboy-)
-- [Broker] Support retry when creating reader of Topic Policies 
+- [Broker] Support retry when creating reader of topic policies. 
 <br>https://github.com/apache/pulsar/pull/12622
 <br>by [315157973](https://github.com/315157973)
 
 ### Notable Bug Fix
-- [Broker] Fix prefix setting in JWT authn and avoid multi calls for the getProperty 
+- [Broker] Fix prefix setting in JWT authentication and avoid multi calls for the `getProperty`. 
 <br>https://github.com/apache/pulsar/pull/12132
 <br>by [RobertIndie](https://github.com/RobertIndie)
-- [Client] PulsarAdmin: Fix last exit code storage 
+- [Admin]: Fix last exit code storage. 
 <br>https://github.com/apache/pulsar/pull/12581
 <br>by [thomasleplus](https://github.com/thomasleplus)
-- [Broker] Fix false positive ownership check in OwnershipCache#checkOwnership 
+- [Broker] Fix false positive ownership check in `OwnershipCache#checkOwnership`. 
 <br>https://github.com/apache/pulsar/pull/12650
 <br>by [Jason918](https://github.com/Jason918)
-- [Managed Ledger] Avoid passing OpAddEntry across a thread boundary in asyncAddEntry 
+- [BookKeeper] Avoid passing `OpAddEntry` across a thread boundary in `asyncAddEntry`. 
 <br>https://github.com/apache/pulsar/pull/12606
 <br>by [lhotari](https://github.com/lhotari)
-- [Compaction] Do not move the non-durable cursor position when reading the compacted data
+- [BookKeeper] Avoid move the non-durable cursor position when reading the compacted data.
 <br>https://github.com/apache/pulsar/pull/12602 
 <br>by [codelipenghui](https://github.com/codelipenghui)
-- [Broker] Fix: 'StartMessageId' and 'RollbackDuration' not working in MultiTopicsReader for non-partitioned topics 
+- [Client] Fix the issue that `StartMessageId` and `RollbackDuration` don't work in `MultiTopicsReader` for non-partitioned topics. 
 <br>https://github.com/apache/pulsar/pull/12308
 <br>by [Jason918](https://github.com/Jason918)
-- [Broker] Fix: Additional servlets NAR might extract to null directory 
+- [Broker] Fix the issue that additional servlets NAR might extract to null directory.
 <br>https://github.com/apache/pulsar/pull/12585 
 <br>by [Demogorgon314](https://github.com/Demogorgon314)
-- [Broker] Fix cherry-pick code style 
+- [Broker] Fix cherry-pick code style.
 <br>https://github.com/apache/pulsar/pull/12627
 <br>by [hangc0276](https://github.com/hangc0276)
 
 ### Ecosystem
-- [Python Schema] Python schema support custom Avro configurations for Enum type 
+- [Schema] Support custom Avro configurations for Enum type on Python schema. 
 <br>https://github.com/apache/pulsar/pull/12642
 <br>by [gaoran10](https://github.com/gaoran10)
-- [Broker] Allow to configure different implementations for Pulsar functions state store 
+- [Functions] Allow to configure different implementations for Pulsar Functions state store. 
 <br>https://github.com/apache/pulsar/pull/12646
 <br>by [merlimat](https://github.com/merlimat)
-- [Pulsar Functions] K8s runtime: Force deletion to avoid hung function worker during connector restart 
+- [Functions] Force deletion to avoid hung function worker during connector restart on K8s runtime. 
 <br>https://github.com/apache/pulsar/pull/12504
 <br> by [dlg99](https://github.com/dlg99)
 
