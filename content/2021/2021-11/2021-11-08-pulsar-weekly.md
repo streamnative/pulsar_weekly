@@ -16,7 +16,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 ## Pulsar Program Overview
 - Github Forks: 2.5k
 - Github Stars: 9.9k
-- Github Contributors: 462
+- Github Contributors: 464
 
 ## Pulsar Updates
 
@@ -74,17 +74,22 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br> by [dlg99](https://github.com/dlg99)
 
 
-## Blog
-- [[Article] Why Pulsar Beats Kafka for a Scalable, Distributed Data Architecture](https://jaxenter.com/pulsar-kafka-175830.html)
-- [[Video] Log System as Backbone – How We Built the World’s Most Advanced Vector Database on Pulsar](https://www.youtube.com/watch?v=o3c7h8dqlnM)
-- [[Article] Using Apache Pulsar With Kotlin - by Gilles Barbier](https://gillesbarbier.medium.com/using-apache-pulsar-with-kotlin-3b0ab398cf52)
+## Resources
+
+### Blog
+- [Article] [Why Pulsar Beats Kafka for a Scalable, Distributed Data Architecture](https://jaxenter.com/pulsar-kafka-175830.html)
+- Osacon 2021 
+    - [Slides] [Hello Hydrate! From Stream to Clickhouse with Apache Pulsar and Friends](https://www.slideshare.net/bunkertor/osacon-2021-hello-hydrate-from-stream-to-clickhouse-with-apache-pulsar-and-friends) by. Timothy Spann
+
+### Video
+- Flink Forward Global 2021
+  - [Interactive Session: AMA | Pulsar and Flink for Unified Data Processing](https://www.youtube.com/watch?v=sl1d7vZYe1E)
 
 ## Events / News
 - Past Events
-    - OSA Con 2021 | Open Source & Analytics Conference
-        - [Hello Hydrate! From Stream to ClickHouse with Apache Pulsar and Friends - by Timothy Spann](https://events.zoom.us/ev/ACZzkY_NGRJ0pj8D40mddmN-UCY9HMeDZBjAfuNjP4UIYypTHWY8pYw3Zy7Ewxz1lPxK-9M)
-    - Flink Forward Global Virtual Conference 2021
-        - [Interactive Session: AMA | Pulsar and Flink for Unified Data Processing](https://www.youtube.com/watch?v=sl1d7vZYe1E)
-    - [StreamNative Cloud Workshop](https://www.youtube.com/watch?v=p8wakHWFKR4&list=PLqRma1oIkcWhfmUuJrMM5YIG8hjju62Ev)
+   - November 2nd-3rd: OSA Con 2021 | Open Source & Analytics Conference
+        - [Hello Hydrate! From Stream to ClickHouse with Apache Pulsar and Friends](https://www.youtube.com/watch?v=K9MOiG1oz-0) by. Timothy Spann
 - Upcoming Events
-    - [Pulsar Summit Asia 2021](https://hopin.com/events/pulsar-summit-asia-2021)
+    - November 18th: [Conference - DeveloperWeek Austin](https://www.developerweek.com/Austin/conference/)
+        - Deploying Machine Learning Models with Pulsar Functions
+    - December 3rd: [Embedded Fest ONLINE](https://embeddedfest.com/)
