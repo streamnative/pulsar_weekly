@@ -68,11 +68,12 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 
 ## Events / News
 - Past Events
-   - [Utilizing Apache Pulsar, Apache NiFi and MiNiFi for EdgeAI IoT at Scale](https://www.slideshare.net/bunkertor/ai-dev-world-utilizing-apache-pulsar-apache-ni-fi-and-minifi-for-edgeai-iot-at-scale)
-    - Flink Forward Global Virtual Conference 2021
+   - October 27th: AI Dev World
+     - [Utilizing Apache Pulsar, Apache NiFi and MiNiFi for EdgeAI IoT at Scale](https://www.slideshare.net/bunkertor/ai-dev-world-utilizing-apache-pulsar-apache-ni-fi-and-minifi-for-edgeai-iot-at-scale)
+    - October 27th: Flink Forward Global Virtual Conference 2021
         - [Interactive Session: AMA | Pulsar and Flink for Unified Data Processing](https://www.youtube.com/watch?v=sl1d7vZYe1E)
         - [Continuous Queries on Apache Pulsar using Flink SQL](https://www.youtube.com/watch?v=iWn_BI1c9m4&list=PLDX4T_cnKjD0J2LFr7yBk2aSS_o2l-7ue&index=50)
 - Upcoming Events
-    - [Pulsar Summit Asia 2021](https://hopin.com/events/pulsar-summit-asia-2021)
-    - DevFest 2021 UK & Ireland
-        - [Using Apache NiFi with Apache Pulsar for Fast Data On-Ramp](https://www.devfest-uki.com/) by Timothy Spann
+    - November 18th: [Conference - DeveloperWeek Austin](https://www.developerweek.com/Austin/conference/)
+        - Deploying Machine Learning Models with Pulsar Functions
+    - December 3rd: [Embedded Fest ONLINE](https://embeddedfest.com/)
