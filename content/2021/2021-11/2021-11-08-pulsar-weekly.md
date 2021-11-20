@@ -74,22 +74,16 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br> by [dlg99](https://github.com/dlg99)
 
 
-## Resources
-
-### Blog
+## Blog
 - [Article] [Why Pulsar Beats Kafka for a Scalable, Distributed Data Architecture](https://jaxenter.com/pulsar-kafka-175830.html)
-- Osacon 2021 
-    - [Slides] [Hello Hydrate! From Stream to Clickhouse with Apache Pulsar and Friends](https://www.slideshare.net/bunkertor/osacon-2021-hello-hydrate-from-stream-to-clickhouse-with-apache-pulsar-and-friends) by. Timothy Spann
-
-### Video
-- Flink Forward Global 2021
-  - [Interactive Session: AMA | Pulsar and Flink for Unified Data Processing](https://www.youtube.com/watch?v=sl1d7vZYe1E)
 
 ## Events / News
 - Past Events
-   - November 2nd-3rd: OSA Con 2021 | Open Source & Analytics Conference
+   - OSA Con 2021 | Open Source & Analytics Conference
         - [Hello Hydrate! From Stream to ClickHouse with Apache Pulsar and Friends](https://www.youtube.com/watch?v=K9MOiG1oz-0) by. Timothy Spann
+    - Flink Forward Global Virtual Conference 2021
+        - [Interactive Session: AMA | Pulsar and Flink for Unified Data Processing](https://www.youtube.com/watch?v=sl1d7vZYe1E)
+        - [Continuous Queries on Apache Pulsar using Flink SQL](https://www.youtube.com/watch?v=iWn_BI1c9m4&list=PLDX4T_cnKjD0J2LFr7yBk2aSS_o2l-7ue&index=50)
 - Upcoming Events
-    - November 18th: [Conference - DeveloperWeek Austin](https://www.developerweek.com/Austin/conference/)
-        - Deploying Machine Learning Models with Pulsar Functions
     - December 3rd: [Embedded Fest ONLINE](https://embeddedfest.com/)
+      - Using Apache Pulsar to provide real-time analytics on the edge by. David Kjerrumgaard
