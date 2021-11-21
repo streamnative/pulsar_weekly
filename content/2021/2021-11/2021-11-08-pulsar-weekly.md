@@ -85,5 +85,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
         - [Interactive Session: AMA | Pulsar and Flink for Unified Data Processing](https://www.youtube.com/watch?v=sl1d7vZYe1E)
         - [Continuous Queries on Apache Pulsar using Flink SQL](https://www.youtube.com/watch?v=iWn_BI1c9m4&list=PLDX4T_cnKjD0J2LFr7yBk2aSS_o2l-7ue&index=50)
 - Upcoming Events
+    - November 18th: Conference - DeveloperWeek Austin
+        - [Deploying Machine Learning Models with Pulsar Functions](https://www.developerweek.com/Austin/conference/)
     - December 3rd: [Embedded Fest ONLINE](https://embeddedfest.com/)
-      - Using Apache Pulsar to provide real-time analytics on the edge by. David Kjerrumgaard
+      - Using Apache Pulsar to provide real-time analytics on the edge by David Kjerrumgaard
