@@ -72,5 +72,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
      - [Utilizing Apache Pulsar, Apache NiFi and MiNiFi for EdgeAI IoT at Scale](https://www.youtube.com/watch?v=7hSGHzEIIns&t=120s)
   
 - Upcoming Events
-    - December 3rd: [Embedded Fest ONLINE](https://embeddedfest.com/)
-        - Using Apache Pulsar to provide real-time analytics on the edge by. David Kjerrumgaard
+   - November 18th: Conference - DeveloperWeek Austin
+         - [Deploying Machine Learning Models with Pulsar Functions](https://www.developerweek.com/Austin/conference/)
+   - December 3rd: [Embedded Fest ONLINE](https://embeddedfest.com/)
+        - Using Apache Pulsar to provide real-time analytics on the edge by David Kjerrumgaard
