@@ -126,7 +126,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 <br>https://github.com/apache/pulsar/pull/12910 
 <br>by [Technoboy-](https://github.com/Technoboy-)
  
-- [BookKeeper] Upgrade Zookeeper from 3.5.7 to 3.5.9.
+- [BookKeeper] Upgrade ZooKeeper from 3.5.7 to 3.5.9.
 <br>https://github.com/apache/pulsar/pull/12981 
 <br>by [lhotari](https://github.com/lhotari)
  
