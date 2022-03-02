@@ -74,8 +74,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Building Applications with Apache Spark and Apache Pulsar](https://medium.com/@tspann/building-applications-with-apache-spark-and-apache-pulsar-87a9611f0fd9)
 
 ## Events / News
-- Survey
-    - [Apache Pulsar™ User Survey](https://docs.google.com/forms/d/e/1FAIpQLSfZLn3U2QqzXNEV0p4BoB6lSI88fOOuQYB_w59tEoe_uP684w/viewform)
 - Upcoming events
     - March 10, 2022: FliPN Stack for Cloud Data Lakes | Meetup
         - [Using Apache Pulsar, Flink, and Nifi to Stream to Your Data Lakes](https://streamnative.io/en/event/meetup-flipn-stack-for-cloud-data-lakes/)
