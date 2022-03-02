@@ -64,8 +64,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Apache Pulsar NodeJS Client 1.5.0](https://github.com/apache/pulsar-client-node/releases)
 
 ## Events
-- Survey
-    - [Apache Pulsar™ User Survey](https://docs.google.com/forms/d/e/1FAIpQLSfZLn3U2QqzXNEV0p4BoB6lSI88fOOuQYB_w59tEoe_uP684w/viewform)
 - Upcoming events
     - March 10, 2022: FliPN Stack for Cloud Data Lakes | Meetup
         - [Using Apache Pulsar, Flink, and Nifi to Stream to Your Data Lakes](https://streamnative.io/en/event/meetup-flipn-stack-for-cloud-data-lakes/)
