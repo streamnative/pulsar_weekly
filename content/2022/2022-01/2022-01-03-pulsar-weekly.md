@@ -16,7 +16,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 ## Pulsar Program Overview
 - Github Forks: 2.7k
 - Github Stars: 10.4k
-- Github Contributors: 509
+- Github Contributors: 511
 
 ## Pulsar Updates
 ### Highlights
@@ -54,9 +54,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [BookKeeper] Fix the issue that `StatsBuckets addAll` use count as sum. 
  <br>https://github.com/apache/pulsar/pull/13467 
  <br>by [leizhiyuan](https://github.com/leizhiyuan)
-- [Broker] Subscribe rate support cross multiple clusters.
- <br>https://github.com/apache/pulsar/pull/13561 
- <br>by [Jason918](https://github.com/Jason918)
 - [Broker] Fix getting the last message-id from an empty compact ledger. 
  <br>https://github.com/apache/pulsar/pull/13476 
  <br>by [gaoran10](https://github.com/gaoran10)
