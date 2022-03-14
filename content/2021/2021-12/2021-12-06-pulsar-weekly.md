@@ -90,7 +90,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Broker] Add new field `maxProducersPerTopic` to `org.apache.pulsar.broker.service.AbstractTopic#topicPolicies`.
  <br>https://github.com/apache/pulsar/pull/13082 
  <br>by [Jason918](https://github.com/Jason918)
-- [Function]  Fix the issue that the metrics port is not exposed.
+- [Functions]  Fix the issue that the metrics port is not exposed.
  <br>https://github.com/apache/pulsar/pull/12065 
  <br>by [volgorean](https://github.com/volgorean)
 
