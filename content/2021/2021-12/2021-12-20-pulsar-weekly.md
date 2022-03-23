@@ -15,7 +15,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 
 ## Pulsar Program Overview
 - Github Forks: 2.7k
-- Github Stars: 10.4k
+- Github Stars: 10.5k
 - Github Contributors: 513
 
 ## Pulsar Updates
