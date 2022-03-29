@@ -15,7 +15,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 
 ## Pulsar Program Overview
 - Github Forks: 2.7k
-- Github Stars: 10.5k
+- Github Stars: 10.6k
 - Github Contributors: 513
 
 ## Pulsar Updates
@@ -98,7 +98,7 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 
 ## Events / News
 - Survey
-    - [[5-min Survey] New Apache Pulsar Website](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOjIXw9UMFkzWUM0Q0JVSEtXWVY3SlM0UUMzQkxJVC4u)
+    - [[5-Min Survey] New Apache Pulsar Website](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOjIXw9UMFkzWUM0Q0JVSEtXWVY3SlM0UUMzQkxJVC4u)
 
 - Upcoming events
     - March 30, 2022: Open Source Bristol
