@@ -101,10 +101,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
     - [[5-Min Survey] New Apache Pulsar Website](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOjIXw9UMFkzWUM0Q0JVSEtXWVY3SlM0UUMzQkxJVC4u)
 
 - Upcoming events
-    - March 30, 2022: Open Source Bristol
-        - [Building a Scalable Event Streaming and Messaging Platform using Apache Pulsar for Fintech](https://www.meetup.com/Open-Source-Bristol/events/284198269/)
-    - March 31, 2022: MLcof NYC
-        - [Event-Driven Machine Learning at Scale](https://mlconf.com/speakers/timothy-spann/)
     - April 8, 2022: Netherlands Apache Pulsar Meetup
         - [Graph-based stream processing with Apache Pulsar](https://www.meetup.com/netherlands-apache-pulsar-meetup/events/284660180/)
     - July 18-20, 2022: JBCNconf
