@@ -156,9 +156,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Apache/Pulsar-Client-Go v0.8.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.8.0)
 
 ## Events / News
-- Survey
-    - [[5-min Survey] New Apache Pulsar Website](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOjIXw9UMFkzWUM0Q0JVSEtXWVY3SlM0UUMzQkxJVC4u)
-
 - Past events
     - Community Conference 2022
         - [Ingesting Data at Scale into Elasticsearch with Apache Pulsar](https://www.youtube.com/watch?v=h_WfuyoGpaM)
