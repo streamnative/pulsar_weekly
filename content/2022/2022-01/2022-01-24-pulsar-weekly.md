@@ -80,7 +80,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Apache Pulsar with MQTT for Edge Computing](https://www.slideshare.net/bunkertor/data-minutes-2-apache-pulsar-with-mqtt-for-edge-computing-lightning-2022)
 
 ## Events / News
-
 - Upcoming events
     - 8 April, 2022: Netherlands Apache Pulsar Meetup
         - [Graph-based stream processing with Apache Pulsar](https://www.meetup.com/netherlands-apache-pulsar-meetup/events/284660180/)
