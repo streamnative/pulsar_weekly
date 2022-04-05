@@ -112,9 +112,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Apache Pulsar Node.js client v1.6.2](https://github.com/apache/pulsar-client-node/releases)
 
 ## Events / News
-- Survey
-    - [[5-min Survey] New Apache Pulsar Website](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOjIXw9UMFkzWUM0Q0JVSEtXWVY3SlM0UUMzQkxJVC4u)
-
 - Past events
     - Virtual Meetup
         - [Apache Pulsar and Apache NiFi For Cloud Data Lakes](https://www.youtube.com/watch?v=2BeAQNI8Pu0)
