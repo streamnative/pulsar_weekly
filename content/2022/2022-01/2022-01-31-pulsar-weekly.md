@@ -81,7 +81,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 ### Slides
 - [Using Apache NiFi with Apache Pulsar for FRast Data On-Ramp](https://www.slideshare.net/bunkertor/devfest-uk-ireland-using-apache-nifi-with-apache-pulsar-for-fast-data-onramp-2022)
 
-
 ## Events / News
 - Upcoming events
     - 8 April, 2022: Netherlands Apache Pulsar Meetup
