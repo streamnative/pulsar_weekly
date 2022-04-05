@@ -41,7 +41,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 ### Video
 - [Apache Pulsar integration (Microservices with .NET 6.0) episode #9](https://www.youtube.com/watch?v=WB72UGqTDoY)
 
-
 ## Events / News
 - Upcoming events
     - 8 April, 2022: Netherlands Apache Pulsar Meetup
