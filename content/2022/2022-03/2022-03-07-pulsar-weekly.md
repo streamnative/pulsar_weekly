@@ -83,9 +83,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Generating Simulated Streaming Data](https://dzone.com/articles/generating-simulated-streaming-data)
 
 ## Events / News
-- Survey
-    - [[5-min Survey] New Apache Pulsar Website](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOjIXw9UMFkzWUM0Q0JVSEtXWVY3SlM0UUMzQkxJVC4u)
-
 - Upcoming events
     - 8 April, 2022: Netherlands Apache Pulsar Meetup
         - [Graph-based stream processing with Apache Pulsar](https://www.meetup.com/netherlands-apache-pulsar-meetup/events/284660180/)
