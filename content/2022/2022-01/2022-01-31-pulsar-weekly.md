@@ -83,7 +83,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 
 
 ## Events / News
-
 - Upcoming events
     - 8 April, 2022: Netherlands Apache Pulsar Meetup
         - [Graph-based stream processing with Apache Pulsar](https://www.meetup.com/netherlands-apache-pulsar-meetup/events/284660180/)
