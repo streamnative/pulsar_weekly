@@ -87,9 +87,6 @@ Great thanks to contributors of the following Github ID who helped build Pulsar 
 - [Apache Pulsar Go Client version v0.8.0](https://t.co/yHkVf8V6kg)
 
 ## Events / News
-- Survey
-    - [[5-min Survey] New Apache Pulsar Website](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOjIXw9UMFkzWUM0Q0JVSEtXWVY3SlM0UUMzQkxJVC4u)
-
 - Upcoming events
     - 8 April, 2022: Netherlands Apache Pulsar Meetup
         - [Graph-based stream processing with Apache Pulsar](https://www.meetup.com/netherlands-apache-pulsar-meetup/events/284660180/)
